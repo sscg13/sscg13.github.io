@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        table, th, td {
+            border:1px solid black;
+        }
+        td {
+            text-align:center;
+            font-size:32px;
+            width:100px;
+        }
+    </style>
+    <body>
+        <table>
+            <tr style="height:100px">
+                <td id="0" onclick="readUI(0)"></td>
+                <td id="1" onclick="readUI(1)"></td>
+                <td id="2" onclick="readUI(2)"></td>
+                <td id="3" onclick="readUI(3)"></td>
+                <td id="4" onclick="readUI(4)"></td>
+                <td id="5" onclick="readUI(5)"></td>
+            </tr>
+            <tr style="height:100px">
+                <td id="6" onclick="readUI(6)"></td>
+                <td id="7" onclick="readUI(7)"></td>
+                <td id="8" onclick="readUI(8)"></td>
+                <td id="9" onclick="readUI(9)"></td>
+                <td id="10" onclick="readUI(10)"></td>
+                <td id="11" onclick="readUI(11)"></td>
+            </tr>
+            <tr style="height:100px">
+                <td id="12" onclick="readUI(12)"></td>
+                <td id="13" onclick="readUI(13)"></td>
+                <td id="14" onclick="readUI(14)"></td>
+                <td id="15" onclick="readUI(15)"></td>
+                <td id="16" onclick="readUI(16)"></td>
+                <td id="17" onclick="readUI(17)"></td>
+            </tr>
+            <tr style="height:100px">
+                <td id="18" onclick="readUI(18)"></td>
+                <td id="19" onclick="readUI(19)"></td>
+                <td id="20" onclick="readUI(20)"></td>
+                <td id="21" onclick="readUI(21)"></td>
+                <td id="22" onclick="readUI(22)"></td>
+                <td id="23" onclick="readUI(23)"></td>
+            </tr>
+            <tr style="height:100px">
+                <td id="24" onclick="readUI(24)"></td>
+                <td id="25" onclick="readUI(25)"></td>
+                <td id="26" onclick="readUI(26)"></td>
+                <td id="27" onclick="readUI(27)"></td>
+                <td id="28" onclick="readUI(28)"></td>
+                <td id="29" onclick="readUI(29)"></td>
+            </tr>
+            <tr style="height:100px">
+                <td id="30" onclick="readUI(30)"></td>
+                <td id="31" onclick="readUI(31)"></td>
+                <td id="32" onclick="readUI(32)"></td>
+                <td id="33" onclick="readUI(33)"></td>
+                <td id="34" onclick="readUI(34)"></td>
+                <td id="35" onclick="readUI(35)"></td>
+            </tr>
+        </table>
+        <button onclick="readUI(-1)">Pass</button>
+        <button onclick="mcts(30000)">Bot move</button>
+        <p id="Move"></p>
+        <p id="Score"></p>
+        <p id="Result"></p>
+        <a href="Rules.html">How to play?</a>
+        <a href="Technical.html">Technical details</a>
+        <script src="Logic.js"></script>
+    </body>
+</html>

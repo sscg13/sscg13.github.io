@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <a href="Board.html">Return to Playing</a>
+        <h1>Technical Stuff</h1>
+        <h2>Why is the starting position different?</h2>
+        <p>It is not that hard to see that first move is a significant
+            advantage in Sequencium. It might also not be that hard to see
+            that the second player can nullify this advantage by mirroring
+            the first player's moves, guaranteeing a draw. So, instead, what
+            you see is my personal adjustment, which I believe makes the 
+            game more more interesting and balanced.
+        </p>
+        <h2>How to play Sequencium well?</h2>
+        <p>
+            Prioritize both making a high number, and preventing the opponent
+            from reaching one. One of the most basic strategies is to build a 
+            "wall" that the opponent cannot infiltrate. A wall can also have
+            the purpose of restricting the opponent's growth. It will also
+            be helpful to learn how to "read" a position, i.e. estimate
+            how big each side should be able to get. Ultimately,
+            sequencium about balancing offense with defense.
+        </p>
+        <h2>How does the AI work?</h2>
+        <p>
+            The AI runs a modified <a href=https://en.wikipedia.org/wiki/Monte_Carlo_tree_search>MCTS</a>
+            algorithm. It uses smarter random playouts, in which it attempts
+            to build from the highest number if possible, and otherwise pulls
+            a random move. It also combines the result of the random playouts
+            with a heuristic that attempts to estimate territorial control.
+            This should result in an AI that is strategically decent, while
+            retaining good tactical vision. However, the bot will still
+            occasionally misread complicated positions where both sides are invading
+            and defending at the same time.
+            It is not recommended to call the bot if less than 5 squares
+            remain unfilled, due to a bug affecting how it handles
+            terminal positions during search (and you should be able to read such a position).
+        </p>
+    </body>
+</html>
