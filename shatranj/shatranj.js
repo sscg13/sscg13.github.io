@@ -19,6 +19,7 @@ attack_sliders.push([[[-1, 1]], [[0, 1]], [[1, 1]], [[1, 0]], [[1, -1]], [[0, -1
 let positions = null;
 let moves = null;
 let ply = 0;
+let game_over = false;
 let whiteloss = 0;
 let whiteloss1 = 0;
 let whitemoves = 0;
@@ -356,10 +357,7 @@ function auto_advance() {
         ply++;
         if (ply >= moves.length) {
             show_final_accuracy();
-            ply = 0;
-            test.set_starting_position();
-            sync_with_board(test);
-            hide_last_move();
+            game_over = true;
         } else {
             auto_advance();
         }
@@ -375,7 +373,7 @@ function make(move) {
     show_last_move(start_square, end_square);
 }
 function process_click(event) {
-    if (positions == null || moves == null) return;
+    if (positions == null || moves == null || game_over) return;
     if (event.clientX < 10 || event.clientX >= 610 || event.clientY < 10 || event.clientY >= 610) return;
     let x_coord = Math.floor((event.clientX - 10) / 75);
     let y_coord = Math.floor((event.clientY - 10) / 75);
@@ -495,10 +493,7 @@ function process_click(event) {
                 ply++;
                 if (ply >= moves.length) {
                     show_final_accuracy();
-                    ply = 0;
-                    test.set_starting_position();
-                    sync_with_board(test);
-                    hide_last_move();
+                    game_over = true;
                 } else {
                     auto_advance();
                 }
@@ -557,11 +552,28 @@ function sync_with_board(board) {
     }
 }
 let gameIndex = null;
+function restart_game() {
+    if (moves == null) return;
+    game_over = false;
+    ply = 0;
+    whiteloss = 0; whiteloss1 = 0; whitemoves = 0;
+    blackloss = 0; blackloss1 = 0; blackmoves = 0;
+    primer = 0;
+    hide_highlight();
+    hide_last_move();
+    test.set_starting_position();
+    sync_with_board(test);
+    document.getElementById("you").innerText = "";
+    document.getElementById("played").innerText = "";
+    document.getElementById("accuracy").innerText = "";
+    auto_advance();
+}
 async function loadGame(gameId) {
     const response = await fetch("games/" + gameId + ".json");
     const data = await response.json();
     positions = data.positions;
     moves = data.moves;
+    game_over = false;
     ply = 0;
     whiteloss = 0; whiteloss1 = 0; whitemoves = 0;
     blackloss = 0; blackloss1 = 0; blackmoves = 0;
