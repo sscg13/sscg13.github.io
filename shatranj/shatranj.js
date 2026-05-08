@@ -1,4 +1,4 @@
-let piece_images = ["Images/_King.png","Images/_Rook.png","Images/_Knight.png","Images/_Queen.png","Images/_Bishop.png","Images/_Pawn.png","","Images/Pawn.png","Images/Bishop.png","Images/Queen.png","Images/Knight.png","Images/Rook.png","Images/King.png"]
+let piece_images = ["Images/King_black.png","Images/Rook_black.png","Images/Knight_black.png","Images/Queen_black.png","Images/Bishop_black.png","Images/Pawn_black.png","","Images/Pawn.png","Images/Bishop.png","Images/Queen.png","Images/Knight.png","Images/Rook.png","Images/King.png"]
 let attack_n = [];
 let attack_e = [];
 let attack_s = [];
