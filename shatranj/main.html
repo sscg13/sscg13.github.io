@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        img, p, select { position: absolute; }
+        #game-select { top: 10px; left: 700px; font-size: 14px; }
+        #color-select { top: 10px; left: 870px; font-size: 14px; }
+        #game-description { top: 40px; left: 700px; width: 280px; font-size: 13px; color: #444; }
+        #you { top: 120px; left: 700px; font-size: 13px; }
+        #played { top: 150px; left: 700px; font-size: 13px; }
+        #accuracy { top: 185px; left: 700px; font-size: 13px; white-space: pre; }
+    </style>
+    <script src="shatranj.js"></script>
+    <body>
+        <img src="Images/purple-diag.png" alt="chessboard" style="top: 10px; left: 10px; width:600px; height:600px;">
+        <select id="game-select"></select>
+        <select id="color-select">
+            <option value="0">Both colors</option>
+            <option value="1">White</option>
+            <option value="-1">Black</option>
+        </select>
+        <p id="game-description"></p>
+        <p id="you"></p>
+        <p id="played"></p>
+        <p id="accuracy"></p>
+    </body>
+</html>
