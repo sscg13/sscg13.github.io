@@ -36,24 +36,11 @@ function compare(string1, string2) {
     }
     return 0;
 }
-function get_analysis(fen, positions) {
-    let low = 0;
-    let high = positions.length-1;
-    while (low != high) {
-        let test = Math.floor((low+high)/2);
-        let result = compare(fen, positions[test][0]);
-        if (result < 0) {
-            high = test - 1;
-        }
-        if (result > 0) {
-            low = test + 1;
-        }
-        if (result == 0) {
-            high = test;
-            low = test;
-        }
-    }
-    return [positions[low][1], positions[low][2], positions[low][3], positions[low][4]];
+function get_analysis(ply, move, positions) {
+    let entry = positions[ply]?.[move];
+    if (!entry) return [0, 0, 0, 0];
+    let wdl = entry.wdl ?? [0, 0, 0];
+    return [entry.eval ?? 0, wdl[0], wdl[1], wdl[2]];
 }
 class Board {
     constructor() {
@@ -423,7 +410,7 @@ function process_click(event) {
                 for (let j = 0; j < move_count; j++) {
                     let pieces = test.make_move(pseudo_moves[j]);
                     if (!test.king_attacked(-test.color)) {
-                        let wdl = get_analysis(test.get_FEN(), positions);
+                        let wdl = get_analysis(ply, pseudo_moves[j], positions);
                         let score = wdl[2] + 2*wdl[3];
                         if (score > maxscore) {
                             maxscore = score;
@@ -432,7 +419,7 @@ function process_click(event) {
                     test.unmake_move(pseudo_moves[j], pieces[0], pieces[1]);
                 }
                 let pieces = test.make_move(start_square+end_square);
-                let wdl = get_analysis(test.get_FEN(), positions); 
+                let wdl = get_analysis(ply, start_square+end_square, positions);
                 let score = wdl[2] + 2*wdl[3];
                 console.log("Loss for your move: " + (maxscore - score));
                 if (ply % 2 == 0) {
@@ -465,7 +452,7 @@ function process_click(event) {
                 document.getElementById("you").innerText = string1;
                 test.unmake_move(start_square+end_square, pieces[0], pieces[1]);   
                 make(moves[ply]);
-                wdl = get_analysis(test.get_FEN(), positions);
+                wdl = get_analysis(ply, moves[ply], positions);
                 score = wdl[2] + 2*wdl[3];
                 console.log("Loss for played move: " + (maxscore - score));
                 if (ply % 2 == 0) {
@@ -565,7 +552,7 @@ async function loadGame(gameId) {
     const response = await fetch("games/" + gameId + ".json");
     const data = await response.json();
     positions = data.positions;
-    moves = data.moves.split(" ");
+    moves = data.moves;
     ply = 0;
     whiteloss = 0; whiteloss1 = 0; whitemoves = 0;
     blackloss = 0; blackloss1 = 0; blackmoves = 0;
