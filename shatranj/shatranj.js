@@ -38,8 +38,8 @@ function compare(string1, string2) {
 }
 function get_analysis(ply, move, positions) {
     let entry = positions[ply]?.[move];
-    if (!entry) return [0, 0, 0, 0];
-    let wdl = entry.wdl ?? [0, 0, 0];
+    if (!entry || entry.wdl == null) return null;
+    let wdl = entry.wdl;
     return [entry.eval ?? 0, wdl[0], wdl[1], wdl[2]];
 }
 class Board {
@@ -205,6 +205,7 @@ class Board {
                     this.unmake_move(pseudo_moves[i], pieces[0], pieces[1]);
                     return true;
                 }
+                this.unmake_move(pseudo_moves[i], pieces[0], pieces[1]);
             }
         }
         return false;
@@ -411,16 +412,18 @@ function process_click(event) {
                     let pieces = test.make_move(pseudo_moves[j]);
                     if (!test.king_attacked(-test.color)) {
                         let wdl = get_analysis(ply, pseudo_moves[j], positions);
-                        let score = wdl[2] + 2*wdl[3];
-                        if (score > maxscore) {
-                            maxscore = score;
+                        if (wdl != null) {
+                            let score = wdl[2] + 2*wdl[3];
+                            if (score > maxscore) {
+                                maxscore = score;
+                            }
                         }
                     }
                     test.unmake_move(pseudo_moves[j], pieces[0], pieces[1]);
                 }
                 let pieces = test.make_move(start_square+end_square);
                 let wdl = get_analysis(ply, start_square+end_square, positions);
-                let score = wdl[2] + 2*wdl[3];
+                let score = (wdl != null) ? wdl[2] + 2*wdl[3] : maxscore;
                 console.log("Loss for your move: " + (maxscore - score));
                 if (ply % 2 == 0) {
                     whiteloss1 += (maxscore - score);
@@ -431,7 +434,10 @@ function process_click(event) {
                     blackmoves++;
                 }
                 let string1 = "Your move: " + start_square + end_square + " (";
-                if (wdl[2] == 0 && Math.abs(wdl[0]) < 100) {
+                if (wdl == null) {
+                    string1 = string1 + "?, ";
+                }
+                else if (wdl[2] == 0 && Math.abs(wdl[0]) < 100) {
                     if (wdl[1] > 0) {
                         string1 = string1 + "+#" + (Math.abs(wdl[0])).toString() + ", ";
                     }
@@ -450,10 +456,10 @@ function process_click(event) {
                 }
                 string1 = string1 + ((maxscore-score)/20).toString() + "% loss)";
                 document.getElementById("you").innerText = string1;
-                test.unmake_move(start_square+end_square, pieces[0], pieces[1]);   
+                test.unmake_move(start_square+end_square, pieces[0], pieces[1]);
                 make(moves[ply]);
                 wdl = get_analysis(ply, moves[ply], positions);
-                score = wdl[2] + 2*wdl[3];
+                score = (wdl != null) ? wdl[2] + 2*wdl[3] : maxscore;
                 console.log("Loss for played move: " + (maxscore - score));
                 if (ply % 2 == 0) {
                     whiteloss += (maxscore - score);
@@ -464,7 +470,10 @@ function process_click(event) {
                     blackmoves++;
                 }
                 string1 = "Played move: " + moves[ply] + " (";
-                if (wdl[2] == 0 && Math.abs(wdl[0]) < 100) {
+                if (wdl == null) {
+                    string1 = string1 + "?, ";
+                }
+                else if (wdl[2] == 0 && Math.abs(wdl[0]) < 100) {
                     if (wdl[1] > 0) {
                         string1 = string1 + "+#" + (Math.abs(wdl[0])).toString() + ", ";
                     }

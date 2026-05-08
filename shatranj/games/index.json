@@ -1,7 +1,12 @@
 [
   {
     "id": "suli_muqtadir",
-    "name": "Al-Suli vs Al-Muqtadir",
-    "description": "Played ~900 CE. Al-Suli, considered the greatest shatranj player of the classical era, faces the Abbasid Caliph Al-Muqtadir."
+    "name": "As-Suli vs Al-Muqtadir",
+    "description": "As-Suli, considered the greatest shatranj player, faces the Abbasid Caliph Al-Muqtadir. One of two known games of shatranj from ancient times."
+  },
+  {
+    "id": "suli_lajlaj",
+    "name": "Al-Suli vs Al-Lajlaj",
+    "description": "As-Suli, considered the greatest shatranj player, faces renowned master Al-Lajlaj. One of two known games of shatranj from ancient times."
   }
 ]
