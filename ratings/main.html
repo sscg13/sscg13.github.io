@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSRL Engine Ratings</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="ratings.js"></script>
+    </head>
+    <body>
+        <h1>CSRL Engine Ratings</h1>
+        <p class="subtitle">Computed with <a href="https://github.com/michiguel/Ordo">Ordo</a>. Click an engine for head-to-head results.</p>
+        <p class="subtitle">Time control: 1 min + 1 sec increment, Hash: 128MB, Book: <a href="https://raw.githubusercontent.com/sscg13/Prolix-tools/main/books/shatranj_dfrs.epd.zip">shatranj_dfrs.epd</a></p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th class="name">Engine</th>
+                    <th>Rating</th>
+                    <th>Error</th>
+                    <th>Points</th>
+                    <th>Games</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody id="ratings-body"></tbody>
+        </table>
+        <p class="summary" id="summary"></p>
+        <script>window.onload = initMain;</script>
+    </body>
+</html>

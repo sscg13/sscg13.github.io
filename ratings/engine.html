@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Engine Ratings</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="ratings.js"></script>
+    </head>
+    <body>
+        <a class="back-link" href="main.html">&larr; Back to all ratings</a>
+        <h1 id="engine-title"></h1>
+        <p class="summary" id="engine-summary"></p>
+        <table>
+            <thead>
+                <tr>
+                    <th class="name">Opponent</th>
+                    <th>Games</th>
+                    <th>W-D-L</th>
+                    <th>Score</th>
+                    <th>Elo Diff</th>
+                    <th>SD</th>
+                    <th>CFS</th>
+                </tr>
+            </thead>
+            <tbody id="opponents-body"></tbody>
+        </table>
+        <script>window.onload = initEngine;</script>
+    </body>
+</html>
