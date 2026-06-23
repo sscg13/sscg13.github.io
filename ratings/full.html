@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSRL Engine Ratings – Full Rankings</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="ratings.js"></script>
+    </head>
+    <body>
+        <a class="back-link" href="main.html">&larr; Back to summary</a>
+        <h1>CSRL Engine Ratings – Full Rankings</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th class="name">Engine</th>
+                    <th>Rating</th>
+                    <th>Error</th>
+                    <th>Points</th>
+                    <th>Games</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody id="ratings-body"></tbody>
+        </table>
+        <p class="summary" id="summary"></p>
+        <script>window.onload = initFull;</script>
+    </body>
+</html>
