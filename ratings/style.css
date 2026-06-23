@@ -52,6 +52,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+#family-nav a {
+    margin-right: 10px;
+}
 .back-link {
     display: inline-block;
     margin-bottom: 12px;

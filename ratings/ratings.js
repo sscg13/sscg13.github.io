@@ -1,3 +1,13 @@
+const FAMILIES = [
+    { name: "Tilted",                                test: n => n.startsWith("Tilted ") },
+    { name: "Prolix",                                test: n => n.startsWith("Prolix ") },
+    { name: "Oranj / Stormphranj",                   test: n => n.startsWith("Oranj ") || n.startsWith("Stormphranj ") },
+    { name: "Fairy-Stockfish / Shatranj-Stockfish",  test: n => n.startsWith("Fairy-Stockfish ") || n.startsWith("Shatranj-Stockfish ") },
+    { name: "Sjaak II",                              test: n => n.startsWith("Sjaak II ") },
+    { name: "Nebiyu",                                test: n => n.startsWith("Nebiyu ") },
+    { name: "Dabbaba",                               test: n => n.startsWith("Dabbaba ") },
+];
+
 async function loadData() {
     const response = await fetch("data.json");
     return await response.json();
@@ -25,48 +35,101 @@ function engineLink(name, found) {
     return a;
 }
 
+function appendEngineRow(e, names, tbody) {
+    const tr = document.createElement("tr");
+
+    const rank = document.createElement("td");
+    rank.textContent = e.rank;
+    tr.appendChild(rank);
+
+    const name = document.createElement("td");
+    name.className = "name";
+    name.appendChild(engineLink(e.name, names.has(e.name)));
+    tr.appendChild(name);
+
+    const rating = document.createElement("td");
+    rating.textContent = e.rating.toFixed(1);
+    tr.appendChild(rating);
+
+    const error = document.createElement("td");
+    error.textContent = e.error === null ? "----" : "±" + e.error.toFixed(1);
+    tr.appendChild(error);
+
+    const points = document.createElement("td");
+    points.textContent = e.points.toFixed(1);
+    tr.appendChild(points);
+
+    const played = document.createElement("td");
+    played.textContent = e.played;
+    tr.appendChild(played);
+
+    const pct = document.createElement("td");
+    pct.textContent = `${e.pct}% (${e.points.toFixed(1)} / ${e.played})`;
+    tr.appendChild(pct);
+
+    tbody.appendChild(tr);
+}
+
+function setDrawRate(data) {
+    const el = document.getElementById("summary");
+    if (el && data.draw_rate) {
+        el.textContent =
+            `Draw rate (equal opponents) = ${data.draw_rate.value.toFixed(2)}% ± ${data.draw_rate.error.toFixed(2)}%`;
+    }
+}
+
 async function initMain() {
+    const data = await loadData();
+    const names = new Set(data.engines.map(e => e.name));
+
+    const shownRanks = new Set();
+    for (const f of FAMILIES) {
+        const best = data.engines.find(e => f.test(e.name));
+        if (best) shownRanks.add(best.rank);
+    }
+    for (const e of data.engines) {
+        if (!FAMILIES.some(f => f.test(e.name))) shownRanks.add(e.rank);
+    }
+
+    const tbody = document.getElementById("ratings-body");
+    for (const e of data.engines) {
+        if (shownRanks.has(e.rank)) appendEngineRow(e, names, tbody);
+    }
+
+    setDrawRate(data);
+}
+
+async function initFull() {
     const data = await loadData();
     const names = new Set(data.engines.map(e => e.name));
     const tbody = document.getElementById("ratings-body");
     for (const e of data.engines) {
-        const tr = document.createElement("tr");
+        appendEngineRow(e, names, tbody);
+    }
+    setDrawRate(data);
+}
 
-        const rank = document.createElement("td");
-        rank.textContent = e.rank;
-        tr.appendChild(rank);
+function paramFamily() {
+    return new URLSearchParams(window.location.search).get("family");
+}
 
-        const name = document.createElement("td");
-        name.className = "name";
-        name.appendChild(engineLink(e.name, names.has(e.name)));
-        tr.appendChild(name);
+async function initFamily() {
+    const data = await loadData();
+    const names = new Set(data.engines.map(e => e.name));
+    const requested = paramFamily();
+    const family = FAMILIES.find(f => f.name === requested);
 
-        const rating = document.createElement("td");
-        rating.textContent = e.rating.toFixed(1);
-        tr.appendChild(rating);
-
-        const error = document.createElement("td");
-        error.textContent = e.error === null ? "----" : "±" + e.error.toFixed(1);
-        tr.appendChild(error);
-
-        const points = document.createElement("td");
-        points.textContent = e.points.toFixed(1);
-        tr.appendChild(points);
-
-        const played = document.createElement("td");
-        played.textContent = e.played;
-        tr.appendChild(played);
-
-        const pct = document.createElement("td");
-        pct.textContent = `${e.pct}% (${e.points.toFixed(1)} / ${e.played})`;
-        tr.appendChild(pct);
-
-        tbody.appendChild(tr);
+    if (!family) {
+        document.getElementById("family-title").textContent = "Family not found";
+        return;
     }
 
-    if (data.draw_rate) {
-        document.getElementById("summary").textContent =
-            `Draw rate (equal opponents) = ${data.draw_rate.value.toFixed(2)}% ± ${data.draw_rate.error.toFixed(2)}%`;
+    document.title = family.name + " – CSRL Engine Ratings";
+    document.getElementById("family-title").textContent = family.name;
+
+    const tbody = document.getElementById("ratings-body");
+    for (const e of data.engines.filter(e => family.test(e.name))) {
+        appendEngineRow(e, names, tbody);
     }
 }
 
@@ -93,6 +156,17 @@ async function initEngine() {
     document.getElementById("engine-summary").textContent =
         `Rating: ${engine.rating.toFixed(1)} (${engine.error === null ? "----" : "±" + engine.error.toFixed(1)})  |  ` +
         `Record: +${r.wins} =${r.draws} -${r.losses} (${engine.played} games)  |  Score: ${engine.pct}% (${engine.points.toFixed(1)} / ${engine.played})`;
+
+    const engineFamily = FAMILIES.find(f => f.test(engine.name));
+    if (engineFamily) {
+        const p = document.getElementById("engine-family");
+        p.textContent = "Part of the ";
+        const a = document.createElement("a");
+        a.href = "family.html?family=" + encodeURIComponent(engineFamily.name);
+        a.textContent = engineFamily.name + " family";
+        p.appendChild(a);
+        p.appendChild(document.createTextNode("."));
+    }
 
     const tbody = document.getElementById("opponents-body");
     const opponents = [...engine.opponents].sort((a, b) => b.diff - a.diff);
