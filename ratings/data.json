@@ -4,15 +4,15 @@
     "error": 0.0
   },
   "draw_rate": {
-    "value": 40.8,
+    "value": 43.4,
     "error": 0.65
   },
   "engines": [
     {
       "rank": 1,
       "name": "Oranj 0.1.2",
-      "rating": 3554.4,
-      "error": 183.0,
+      "rating": 3607.4,
+      "error": 176.9,
       "points": 35.0,
       "played": 58,
       "pct": 60,
@@ -25,8 +25,8 @@
           "losses": 1,
           "pct": 52.3,
           "diff": 9.2,
-          "sd": 45.5,
-          "cfs": 58.1
+          "sd": 43.1,
+          "cfs": 58.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-2859a2411c29)",
@@ -36,8 +36,8 @@
           "losses": 1,
           "pct": 59.1,
           "diff": 82.2,
-          "sd": 45.6,
-          "cfs": 96.4
+          "sd": 41.9,
+          "cfs": 97.5
         },
         {
           "name": "Prolix 10/22/25",
@@ -47,8 +47,8 @@
           "losses": 1,
           "pct": 50.0,
           "diff": 95.8,
-          "sd": 79.1,
-          "cfs": 88.7
+          "sd": 82.7,
+          "cfs": 87.7
         },
         {
           "name": "Stormphranj 0.9.1",
@@ -58,8 +58,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 114.6,
-          "sd": 76.5,
-          "cfs": 93.3
+          "sd": 78.9,
+          "cfs": 92.7
         },
         {
           "name": "Prolix 08/05/25",
@@ -69,8 +69,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 114.6,
-          "sd": 83.7,
-          "cfs": 91.4
+          "sd": 79.6,
+          "cfs": 92.5
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -80,8 +80,8 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 152.0,
-          "sd": 84.5,
-          "cfs": 96.4
+          "sd": 81.5,
+          "cfs": 96.9
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -91,7 +91,7 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 245.2,
-          "sd": 68.2,
+          "sd": 63.8,
           "cfs": 100.0
         },
         {
@@ -102,7 +102,7 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 250.6,
-          "sd": 67.9,
+          "sd": 61.9,
           "cfs": 100.0
         },
         {
@@ -113,7 +113,7 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 272.0,
-          "sd": 68.5,
+          "sd": 62.4,
           "cfs": 100.0
         }
       ],
@@ -126,8 +126,8 @@
     {
       "rank": 2,
       "name": "Prolix 01/04/26",
-      "rating": 3545.2,
-      "error": 185.6,
+      "rating": 3598.2,
+      "error": 179.8,
       "points": 34.0,
       "played": 58,
       "pct": 59,
@@ -140,8 +140,8 @@
           "losses": 2,
           "pct": 47.7,
           "diff": -9.2,
-          "sd": 45.5,
-          "cfs": 41.9
+          "sd": 43.1,
+          "cfs": 41.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-2859a2411c29)",
@@ -151,8 +151,8 @@
           "losses": 0,
           "pct": 65.9,
           "diff": 73.0,
-          "sd": 45.3,
-          "cfs": 94.6
+          "sd": 40.6,
+          "cfs": 96.4
         },
         {
           "name": "Prolix 10/22/25",
@@ -162,7 +162,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 86.6,
-          "sd": 80.5,
+          "sd": 80.4,
           "cfs": 85.9
         },
         {
@@ -173,8 +173,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 105.4,
-          "sd": 78.5,
-          "cfs": 91.0
+          "sd": 77.1,
+          "cfs": 91.4
         },
         {
           "name": "Prolix 08/05/25",
@@ -184,8 +184,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 105.4,
-          "sd": 83.9,
-          "cfs": 89.5
+          "sd": 80.9,
+          "cfs": 90.4
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -195,8 +195,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 142.8,
-          "sd": 85.8,
-          "cfs": 95.2
+          "sd": 79.1,
+          "cfs": 96.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -206,7 +206,7 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 235.9,
-          "sd": 68.1,
+          "sd": 65.2,
           "cfs": 100.0
         },
         {
@@ -217,7 +217,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 241.3,
-          "sd": 67.6,
+          "sd": 62.7,
           "cfs": 100.0
         },
         {
@@ -228,7 +228,7 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 262.8,
-          "sd": 70.3,
+          "sd": 64.9,
           "cfs": 100.0
         }
       ],
@@ -241,8 +241,8 @@
     {
       "rank": 3,
       "name": "Fairy-Stockfish 01/12/26 (+shatranj-2859a2411c29)",
-      "rating": 3472.2,
-      "error": 182.6,
+      "rating": 3525.2,
+      "error": 178.7,
       "points": 26.0,
       "played": 58,
       "pct": 45,
@@ -255,8 +255,8 @@
           "losses": 5,
           "pct": 40.9,
           "diff": -82.2,
-          "sd": 45.6,
-          "cfs": 3.6
+          "sd": 41.9,
+          "cfs": 2.5
         },
         {
           "name": "Prolix 01/04/26",
@@ -266,8 +266,8 @@
           "losses": 7,
           "pct": 34.1,
           "diff": -73.0,
-          "sd": 45.3,
-          "cfs": 5.4
+          "sd": 40.6,
+          "cfs": 3.6
         },
         {
           "name": "Prolix 10/22/25",
@@ -277,7 +277,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 13.6,
-          "sd": 80.1,
+          "sd": 79.9,
           "cfs": 56.7
         },
         {
@@ -288,8 +288,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 32.4,
-          "sd": 79.0,
-          "cfs": 65.9
+          "sd": 77.4,
+          "cfs": 66.2
         },
         {
           "name": "Prolix 08/05/25",
@@ -299,8 +299,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 32.4,
-          "sd": 86.2,
-          "cfs": 64.6
+          "sd": 76.8,
+          "cfs": 66.3
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -310,8 +310,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 69.8,
-          "sd": 82.6,
-          "cfs": 80.1
+          "sd": 77.7,
+          "cfs": 81.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -321,8 +321,8 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 162.9,
-          "sd": 64.5,
-          "cfs": 99.4
+          "sd": 62.1,
+          "cfs": 99.6
         },
         {
           "name": "Prolix 04/08/25",
@@ -332,8 +332,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 168.3,
-          "sd": 65.2,
-          "cfs": 99.5
+          "sd": 61.8,
+          "cfs": 99.7
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -343,8 +343,8 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 189.8,
-          "sd": 65.2,
-          "cfs": 99.8
+          "sd": 59.8,
+          "cfs": 99.9
         }
       ],
       "record": {
@@ -356,8 +356,8 @@
     {
       "rank": 4,
       "name": "Prolix 10/22/25",
-      "rating": 3458.6,
-      "error": 203.6,
+      "rating": 3511.6,
+      "error": 210.5,
       "points": 10.0,
       "played": 18,
       "pct": 56,
@@ -370,8 +370,8 @@
           "losses": 1,
           "pct": 50.0,
           "diff": -95.8,
-          "sd": 79.1,
-          "cfs": 11.3
+          "sd": 82.7,
+          "cfs": 12.3
         },
         {
           "name": "Prolix 01/04/26",
@@ -381,7 +381,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -86.6,
-          "sd": 80.5,
+          "sd": 80.4,
           "cfs": 14.1
         },
         {
@@ -392,7 +392,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -13.6,
-          "sd": 80.1,
+          "sd": 79.9,
           "cfs": 43.3
         },
         {
@@ -403,8 +403,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 18.8,
-          "sd": 85.6,
-          "cfs": 58.7
+          "sd": 98.0,
+          "cfs": 57.6
         },
         {
           "name": "Prolix 08/05/25",
@@ -414,8 +414,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 18.8,
-          "sd": 90.8,
-          "cfs": 58.2
+          "sd": 96.5,
+          "cfs": 57.7
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -425,8 +425,8 @@
           "losses": 1,
           "pct": 50.0,
           "diff": 56.2,
-          "sd": 90.1,
-          "cfs": 73.4
+          "sd": 94.9,
+          "cfs": 72.3
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -436,8 +436,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 149.3,
-          "sd": 79.5,
-          "cfs": 97.0
+          "sd": 82.9,
+          "cfs": 96.4
         },
         {
           "name": "Prolix 04/08/25",
@@ -447,8 +447,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 154.8,
-          "sd": 76.8,
-          "cfs": 97.8
+          "sd": 79.8,
+          "cfs": 97.4
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -458,8 +458,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 176.2,
-          "sd": 76.9,
-          "cfs": 98.9
+          "sd": 80.8,
+          "cfs": 98.5
         }
       ],
       "record": {
@@ -471,8 +471,8 @@
     {
       "rank": 5,
       "name": "Prolix 08/05/25",
-      "rating": 3439.8,
-      "error": 205.2,
+      "rating": 3492.8,
+      "error": 200.0,
       "points": 9.5,
       "played": 18,
       "pct": 53,
@@ -485,8 +485,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -114.6,
-          "sd": 83.7,
-          "cfs": 8.6
+          "sd": 79.6,
+          "cfs": 7.5
         },
         {
           "name": "Prolix 01/04/26",
@@ -496,8 +496,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -105.4,
-          "sd": 83.9,
-          "cfs": 10.5
+          "sd": 80.9,
+          "cfs": 9.6
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-2859a2411c29)",
@@ -507,8 +507,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -32.4,
-          "sd": 86.2,
-          "cfs": 35.4
+          "sd": 76.8,
+          "cfs": 33.7
         },
         {
           "name": "Prolix 10/22/25",
@@ -518,8 +518,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -18.8,
-          "sd": 90.8,
-          "cfs": 41.8
+          "sd": 96.5,
+          "cfs": 42.3
         },
         {
           "name": "Stormphranj 0.9.1",
@@ -529,7 +529,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 0.0,
-          "sd": 94.7,
+          "sd": 92.3,
           "cfs": 50.0
         },
         {
@@ -540,8 +540,8 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 37.4,
-          "sd": 92.6,
-          "cfs": 65.7
+          "sd": 92.2,
+          "cfs": 65.8
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -551,8 +551,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 130.6,
-          "sd": 83.9,
-          "cfs": 94.0
+          "sd": 78.0,
+          "cfs": 95.3
         },
         {
           "name": "Prolix 04/08/25",
@@ -562,8 +562,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 136.0,
-          "sd": 82.4,
-          "cfs": 95.1
+          "sd": 77.2,
+          "cfs": 96.1
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -573,8 +573,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 157.4,
-          "sd": 81.5,
-          "cfs": 97.3
+          "sd": 76.9,
+          "cfs": 98.0
         }
       ],
       "record": {
@@ -586,8 +586,8 @@
     {
       "rank": 6,
       "name": "Stormphranj 0.9.1",
-      "rating": 3439.8,
-      "error": 208.5,
+      "rating": 3492.8,
+      "error": 203.1,
       "points": 9.5,
       "played": 18,
       "pct": 53,
@@ -600,8 +600,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -114.6,
-          "sd": 76.5,
-          "cfs": 6.7
+          "sd": 78.9,
+          "cfs": 7.3
         },
         {
           "name": "Prolix 01/04/26",
@@ -611,8 +611,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -105.4,
-          "sd": 78.5,
-          "cfs": 9.0
+          "sd": 77.1,
+          "cfs": 8.6
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-2859a2411c29)",
@@ -622,8 +622,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -32.4,
-          "sd": 79.0,
-          "cfs": 34.1
+          "sd": 77.4,
+          "cfs": 33.8
         },
         {
           "name": "Prolix 10/22/25",
@@ -633,8 +633,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -18.8,
-          "sd": 85.6,
-          "cfs": 41.3
+          "sd": 98.0,
+          "cfs": 42.4
         },
         {
           "name": "Prolix 08/05/25",
@@ -644,7 +644,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 0.0,
-          "sd": 94.7,
+          "sd": 92.3,
           "cfs": 50.0
         },
         {
@@ -655,8 +655,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 37.4,
-          "sd": 91.8,
-          "cfs": 65.8
+          "sd": 89.9,
+          "cfs": 66.1
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -666,8 +666,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 130.6,
-          "sd": 83.9,
-          "cfs": 94.0
+          "sd": 77.3,
+          "cfs": 95.4
         },
         {
           "name": "Prolix 04/08/25",
@@ -677,8 +677,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 136.0,
-          "sd": 81.7,
-          "cfs": 95.2
+          "sd": 76.6,
+          "cfs": 96.2
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -688,8 +688,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 157.4,
-          "sd": 80.5,
-          "cfs": 97.5
+          "sd": 75.0,
+          "cfs": 98.2
         }
       ],
       "record": {
@@ -701,8 +701,8 @@
     {
       "rank": 7,
       "name": "Stormphranj 0.8.0",
-      "rating": 3402.4,
-      "error": 207.5,
+      "rating": 3455.4,
+      "error": 202.8,
       "points": 8.5,
       "played": 18,
       "pct": 47,
@@ -715,8 +715,8 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -152.0,
-          "sd": 84.5,
-          "cfs": 3.6
+          "sd": 81.5,
+          "cfs": 3.1
         },
         {
           "name": "Prolix 01/04/26",
@@ -726,8 +726,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -142.8,
-          "sd": 85.8,
-          "cfs": 4.8
+          "sd": 79.1,
+          "cfs": 3.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-2859a2411c29)",
@@ -737,8 +737,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -69.8,
-          "sd": 82.6,
-          "cfs": 19.9
+          "sd": 77.7,
+          "cfs": 18.5
         },
         {
           "name": "Prolix 10/22/25",
@@ -748,8 +748,8 @@
           "losses": 1,
           "pct": 50.0,
           "diff": -56.2,
-          "sd": 90.1,
-          "cfs": 26.6
+          "sd": 94.9,
+          "cfs": 27.7
         },
         {
           "name": "Stormphranj 0.9.1",
@@ -759,8 +759,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -37.4,
-          "sd": 91.8,
-          "cfs": 34.2
+          "sd": 89.9,
+          "cfs": 33.9
         },
         {
           "name": "Prolix 08/05/25",
@@ -770,8 +770,8 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -37.4,
-          "sd": 92.6,
-          "cfs": 34.3
+          "sd": 92.2,
+          "cfs": 34.2
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -781,8 +781,8 @@
           "losses": 0,
           "pct": 75.0,
           "diff": 93.1,
-          "sd": 81.6,
-          "cfs": 87.3
+          "sd": 80.2,
+          "cfs": 87.7
         },
         {
           "name": "Prolix 04/08/25",
@@ -792,8 +792,8 @@
           "losses": 0,
           "pct": 100.0,
           "diff": 98.5,
-          "sd": 78.6,
-          "cfs": 89.5
+          "sd": 79.6,
+          "cfs": 89.2
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -803,8 +803,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 120.0,
-          "sd": 79.9,
-          "cfs": 93.3
+          "sd": 77.3,
+          "cfs": 94.0
         }
       ],
       "record": {
@@ -816,8 +816,8 @@
     {
       "rank": 8,
       "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
-      "rating": 3309.3,
-      "error": 146.7,
+      "rating": 3362.2,
+      "error": 144.7,
       "points": 65.0,
       "played": 109,
       "pct": 60,
@@ -830,7 +830,7 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -245.2,
-          "sd": 68.2,
+          "sd": 63.8,
           "cfs": 0.0
         },
         {
@@ -841,7 +841,7 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -235.9,
-          "sd": 68.1,
+          "sd": 65.2,
           "cfs": 0.0
         },
         {
@@ -852,8 +852,8 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -162.9,
-          "sd": 64.5,
-          "cfs": 0.6
+          "sd": 62.1,
+          "cfs": 0.4
         },
         {
           "name": "Prolix 10/22/25",
@@ -863,8 +863,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -149.3,
-          "sd": 79.5,
-          "cfs": 3.0
+          "sd": 82.9,
+          "cfs": 3.6
         },
         {
           "name": "Stormphranj 0.9.1",
@@ -874,8 +874,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -130.6,
-          "sd": 83.9,
-          "cfs": 6.0
+          "sd": 77.3,
+          "cfs": 4.6
         },
         {
           "name": "Prolix 08/05/25",
@@ -885,8 +885,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -130.6,
-          "sd": 83.9,
-          "cfs": 6.0
+          "sd": 78.0,
+          "cfs": 4.7
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -896,8 +896,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -93.1,
-          "sd": 81.6,
-          "cfs": 12.7
+          "sd": 80.2,
+          "cfs": 12.3
         },
         {
           "name": "Prolix 04/08/25",
@@ -907,8 +907,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 5.4,
-          "sd": 41.1,
-          "cfs": 55.2
+          "sd": 39.2,
+          "cfs": 55.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -918,8 +918,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": 26.8,
-          "sd": 43.6,
-          "cfs": 73.1
+          "sd": 40.2,
+          "cfs": 74.8
         },
         {
           "name": "Shatranj-Stockfish 04/23/19",
@@ -929,7 +929,7 @@
           "losses": 13,
           "pct": 66.5,
           "diff": 106.4,
-          "sd": 28.8,
+          "sd": 27.0,
           "cfs": 100.0
         }
       ],
@@ -942,8 +942,8 @@
     {
       "rank": 9,
       "name": "Prolix 04/08/25",
-      "rating": 3303.8,
-      "error": 142.8,
+      "rating": 3356.8,
+      "error": 146.8,
       "points": 53.0,
       "played": 98,
       "pct": 54,
@@ -956,7 +956,7 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -250.6,
-          "sd": 67.9,
+          "sd": 61.9,
           "cfs": 0.0
         },
         {
@@ -967,7 +967,7 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -241.3,
-          "sd": 67.6,
+          "sd": 62.7,
           "cfs": 0.0
         },
         {
@@ -978,8 +978,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -168.3,
-          "sd": 65.2,
-          "cfs": 0.5
+          "sd": 61.8,
+          "cfs": 0.3
         },
         {
           "name": "Prolix 10/22/25",
@@ -989,8 +989,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -154.8,
-          "sd": 76.8,
-          "cfs": 2.2
+          "sd": 79.8,
+          "cfs": 2.6
         },
         {
           "name": "Stormphranj 0.9.1",
@@ -1000,8 +1000,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -136.0,
-          "sd": 81.7,
-          "cfs": 4.8
+          "sd": 76.6,
+          "cfs": 3.8
         },
         {
           "name": "Prolix 08/05/25",
@@ -1011,8 +1011,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -136.0,
-          "sd": 82.4,
-          "cfs": 4.9
+          "sd": 77.2,
+          "cfs": 3.9
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -1022,8 +1022,8 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -98.5,
-          "sd": 78.6,
-          "cfs": 10.5
+          "sd": 79.6,
+          "cfs": 10.8
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -1033,8 +1033,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -5.4,
-          "sd": 41.1,
-          "cfs": 44.8
+          "sd": 39.2,
+          "cfs": 44.5
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -1044,8 +1044,8 @@
           "losses": 2,
           "pct": 52.3,
           "diff": 21.4,
-          "sd": 33.1,
-          "cfs": 74.2
+          "sd": 34.8,
+          "cfs": 73.1
         },
         {
           "name": "Stormphranj 0.7.0",
@@ -1055,8 +1055,8 @@
           "losses": 2,
           "pct": 52.5,
           "diff": 57.3,
-          "sd": 36.0,
-          "cfs": 94.4
+          "sd": 35.3,
+          "cfs": 94.7
         },
         {
           "name": "Fairy-Stockfish 01/12/26 HCE",
@@ -1066,8 +1066,8 @@
           "losses": 0,
           "pct": 72.5,
           "diff": 71.2,
-          "sd": 31.6,
-          "cfs": 98.8
+          "sd": 34.6,
+          "cfs": 98.0
         },
         {
           "name": "Shatranj-Stockfish 04/23/19",
@@ -1077,7 +1077,7 @@
           "losses": 2,
           "pct": 55.0,
           "diff": 101.0,
-          "sd": 31.8,
+          "sd": 32.8,
           "cfs": 99.9
         }
       ],
@@ -1090,8 +1090,8 @@
     {
       "rank": 10,
       "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
-      "rating": 3282.4,
-      "error": 148.5,
+      "rating": 3335.4,
+      "error": 147.0,
       "points": 49.5,
       "played": 98,
       "pct": 51,
@@ -1104,7 +1104,7 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -272.0,
-          "sd": 68.5,
+          "sd": 62.4,
           "cfs": 0.0
         },
         {
@@ -1115,7 +1115,7 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -262.8,
-          "sd": 70.3,
+          "sd": 64.9,
           "cfs": 0.0
         },
         {
@@ -1126,8 +1126,8 @@
           "losses": 2,
           "pct": 0.0,
           "diff": -189.8,
-          "sd": 65.2,
-          "cfs": 0.2
+          "sd": 59.8,
+          "cfs": 0.1
         },
         {
           "name": "Prolix 10/22/25",
@@ -1137,8 +1137,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -176.2,
-          "sd": 76.9,
-          "cfs": 1.1
+          "sd": 80.8,
+          "cfs": 1.5
         },
         {
           "name": "Stormphranj 0.9.1",
@@ -1148,8 +1148,8 @@
           "losses": 1,
           "pct": 25.0,
           "diff": -157.4,
-          "sd": 80.5,
-          "cfs": 2.5
+          "sd": 75.0,
+          "cfs": 1.8
         },
         {
           "name": "Prolix 08/05/25",
@@ -1159,8 +1159,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -157.4,
-          "sd": 81.5,
-          "cfs": 2.7
+          "sd": 76.9,
+          "cfs": 2.0
         },
         {
           "name": "Stormphranj 0.8.0",
@@ -1170,8 +1170,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -120.0,
-          "sd": 79.9,
-          "cfs": 6.7
+          "sd": 77.3,
+          "cfs": 6.0
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-27f6cf35e3fc)",
@@ -1181,8 +1181,8 @@
           "losses": 0,
           "pct": 50.0,
           "diff": -26.8,
-          "sd": 43.6,
-          "cfs": 26.9
+          "sd": 40.2,
+          "cfs": 25.2
         },
         {
           "name": "Prolix 04/08/25",
@@ -1192,8 +1192,8 @@
           "losses": 3,
           "pct": 47.7,
           "diff": -21.4,
-          "sd": 33.1,
-          "cfs": 25.8
+          "sd": 34.8,
+          "cfs": 26.9
         },
         {
           "name": "Stormphranj 0.7.0",
@@ -1203,8 +1203,8 @@
           "losses": 2,
           "pct": 55.0,
           "diff": 35.9,
-          "sd": 36.5,
-          "cfs": 83.7
+          "sd": 35.7,
+          "cfs": 84.2
         },
         {
           "name": "Fairy-Stockfish 01/12/26 HCE",
@@ -1214,8 +1214,8 @@
           "losses": 5,
           "pct": 57.5,
           "diff": 49.8,
-          "sd": 34.9,
-          "cfs": 92.3
+          "sd": 33.0,
+          "cfs": 93.5
         },
         {
           "name": "Shatranj-Stockfish 04/23/19",
@@ -1225,8 +1225,8 @@
           "losses": 5,
           "pct": 55.0,
           "diff": 79.6,
-          "sd": 34.2,
-          "cfs": 99.0
+          "sd": 31.9,
+          "cfs": 99.4
         }
       ],
       "record": {
@@ -1238,8 +1238,8 @@
     {
       "rank": 11,
       "name": "Stormphranj 0.7.0",
-      "rating": 3246.6,
-      "error": 151.0,
+      "rating": 3299.5,
+      "error": 144.4,
       "points": 39.0,
       "played": 80,
       "pct": 49,
@@ -1252,8 +1252,8 @@
           "losses": 3,
           "pct": 47.5,
           "diff": -57.3,
-          "sd": 36.0,
-          "cfs": 5.6
+          "sd": 35.3,
+          "cfs": 5.3
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -1263,8 +1263,8 @@
           "losses": 4,
           "pct": 45.0,
           "diff": -35.9,
-          "sd": 36.5,
-          "cfs": 16.3
+          "sd": 35.7,
+          "cfs": 15.8
         },
         {
           "name": "Fairy-Stockfish 01/12/26 HCE",
@@ -1274,8 +1274,8 @@
           "losses": 7,
           "pct": 45.0,
           "diff": 14.0,
-          "sd": 34.7,
-          "cfs": 65.6
+          "sd": 34.0,
+          "cfs": 65.9
         },
         {
           "name": "Shatranj-Stockfish 04/23/19",
@@ -1285,8 +1285,8 @@
           "losses": 3,
           "pct": 57.5,
           "diff": 43.7,
-          "sd": 34.7,
-          "cfs": 89.6
+          "sd": 33.2,
+          "cfs": 90.6
         }
       ],
       "record": {
@@ -1298,8 +1298,8 @@
     {
       "rank": 12,
       "name": "Fairy-Stockfish 01/12/26 HCE",
-      "rating": 3232.6,
-      "error": 135.8,
+      "rating": 3285.6,
+      "error": 133.4,
       "points": 88.5,
       "played": 160,
       "pct": 55,
@@ -1312,8 +1312,8 @@
           "losses": 9,
           "pct": 27.5,
           "diff": -71.2,
-          "sd": 31.6,
-          "cfs": 1.2
+          "sd": 34.6,
+          "cfs": 2.0
         },
         {
           "name": "Fairy-Stockfish 01/12/26 (+shatranj-a02db369a1e2)",
@@ -1323,8 +1323,8 @@
           "losses": 8,
           "pct": 42.5,
           "diff": -49.8,
-          "sd": 34.9,
-          "cfs": 7.7
+          "sd": 33.0,
+          "cfs": 6.5
         },
         {
           "name": "Stormphranj 0.7.0",
@@ -1334,8 +1334,8 @@
           "losses": 5,
           "pct": 55.0,
           "diff": -14.0,
-          "sd": 34.7,
-          "cfs": 34.4
+          "sd": 34.0,
+          "cfs": 34.1
         },
         {
           "name": "Shatranj-Stockfish 04/23/19",
@@ -1345,8 +1345,8 @@
           "losses": 4,
           "pct": 57.5,
           "diff": 29.8,
-          "sd": 26.0,
-          "cfs": 87.4
+          "sd": 26.2,
+          "cfs": 87.2
         },
         {
           "name": "Prolix 01/02/25",
@@ -1356,8 +1356,8 @@
           "losses": 1,
           "pct": 65.0,
           "diff": 55.9,
-          "sd": 37.8,
-          "cfs": 93.1
+          "sd": 35.1,
+          "cfs": 94.4
         },
         {
           "name": "Shatranj-Stockfish 01/29/18",
@@ -1366,8 +1366,8 @@
           "draws": 13,
           "losses": 0,
           "pct": 67.5,
-          "diff": 154.0,
-          "sd": 34.4,
+          "diff": 157.3,
+          "sd": 31.8,
           "cfs": 100.0
         },
         {
@@ -1377,8 +1377,8 @@
           "draws": 8,
           "losses": 2,
           "pct": 70.0,
-          "diff": 188.1,
-          "sd": 34.0,
+          "diff": 184.5,
+          "sd": 32.5,
           "cfs": 100.0
         }
       ],
@@ -1391,8 +1391,8 @@
     {
       "rank": 13,
       "name": "Shatranj-Stockfish 04/23/19",
-      "rating": 3202.8,
-      "error": 136.0,
+      "rating": 3255.8,
+      "error": 131.7,
       "points": 112.5,
       "played": 251,
       "pct": 45,
@@ -1405,7 +1405,7 @@
           "losses": 43,
           "pct": 33.5,
           "diff": -106.4,
-          "sd": 28.8,
+          "sd": 27.0,
           "cfs": 0.0
         },
         {
@@ -1416,7 +1416,7 @@
           "losses": 4,
           "pct": 45.0,
           "diff": -101.0,
-          "sd": 31.8,
+          "sd": 32.8,
           "cfs": 0.1
         },
         {
@@ -1427,8 +1427,8 @@
           "losses": 7,
           "pct": 45.0,
           "diff": -79.6,
-          "sd": 34.2,
-          "cfs": 1.0
+          "sd": 31.9,
+          "cfs": 0.6
         },
         {
           "name": "Stormphranj 0.7.0",
@@ -1438,8 +1438,8 @@
           "losses": 6,
           "pct": 42.5,
           "diff": -43.7,
-          "sd": 34.7,
-          "cfs": 10.4
+          "sd": 33.2,
+          "cfs": 9.4
         },
         {
           "name": "Fairy-Stockfish 01/12/26 HCE",
@@ -1449,8 +1449,8 @@
           "losses": 10,
           "pct": 42.5,
           "diff": -29.8,
-          "sd": 26.0,
-          "cfs": 12.6
+          "sd": 26.2,
+          "cfs": 12.8
         },
         {
           "name": "Prolix 01/02/25",
@@ -1460,8 +1460,8 @@
           "losses": 5,
           "pct": 47.5,
           "diff": 26.2,
-          "sd": 38.4,
-          "cfs": 75.2
+          "sd": 36.9,
+          "cfs": 76.1
         },
         {
           "name": "Shatranj-Stockfish 01/29/18",
@@ -1470,8 +1470,8 @@
           "draws": 15,
           "losses": 0,
           "pct": 62.5,
-          "diff": 124.2,
-          "sd": 35.1,
+          "diff": 127.5,
+          "sd": 31.5,
           "cfs": 100.0
         },
         {
@@ -1481,8 +1481,8 @@
           "draws": 5,
           "losses": 1,
           "pct": 82.5,
-          "diff": 158.3,
-          "sd": 35.3,
+          "diff": 154.8,
+          "sd": 32.7,
           "cfs": 100.0
         }
       ],
@@ -1495,8 +1495,8 @@
     {
       "rank": 14,
       "name": "Prolix 01/02/25",
-      "rating": 3176.7,
-      "error": 132.7,
+      "rating": 3229.7,
+      "error": 133.0,
       "points": 44.0,
       "played": 80,
       "pct": 55,
@@ -1509,8 +1509,8 @@
           "losses": 7,
           "pct": 35.0,
           "diff": -55.9,
-          "sd": 37.8,
-          "cfs": 6.9
+          "sd": 35.1,
+          "cfs": 5.6
         },
         {
           "name": "Shatranj-Stockfish 04/23/19",
@@ -1520,8 +1520,8 @@
           "losses": 4,
           "pct": 52.5,
           "diff": -26.2,
-          "sd": 38.4,
-          "cfs": 24.8
+          "sd": 36.9,
+          "cfs": 23.9
         },
         {
           "name": "Shatranj-Stockfish 01/29/18",
@@ -1530,9 +1530,9 @@
           "draws": 7,
           "losses": 5,
           "pct": 57.5,
-          "diff": 98.1,
-          "sd": 35.1,
-          "cfs": 99.7
+          "diff": 101.4,
+          "sd": 34.6,
+          "cfs": 99.8
         },
         {
           "name": "Prolix 08/09/24",
@@ -1541,8 +1541,8 @@
           "draws": 8,
           "losses": 1,
           "pct": 75.0,
-          "diff": 132.1,
-          "sd": 35.5,
+          "diff": 128.6,
+          "sd": 33.8,
           "cfs": 100.0
         }
       ],
@@ -1555,11 +1555,11 @@
     {
       "rank": 15,
       "name": "Shatranj-Stockfish 01/29/18",
-      "rating": 3078.6,
-      "error": 116.1,
-      "points": 276.5,
-      "played": 431,
-      "pct": 64,
+      "rating": 3128.3,
+      "error": 113.1,
+      "points": 260.5,
+      "played": 415,
+      "pct": 63,
       "opponents": [
         {
           "name": "Fairy-Stockfish 01/12/26 HCE",
@@ -1568,8 +1568,8 @@
           "draws": 13,
           "losses": 7,
           "pct": 32.5,
-          "diff": -154.0,
-          "sd": 34.4,
+          "diff": -157.3,
+          "sd": 31.8,
           "cfs": 0.0
         },
         {
@@ -1579,8 +1579,8 @@
           "draws": 15,
           "losses": 5,
           "pct": 37.5,
-          "diff": -124.2,
-          "sd": 35.1,
+          "diff": -127.5,
+          "sd": 31.5,
           "cfs": 0.0
         },
         {
@@ -1590,9 +1590,9 @@
           "draws": 7,
           "losses": 8,
           "pct": 42.5,
-          "diff": -98.1,
-          "sd": 35.1,
-          "cfs": 0.3
+          "diff": -101.4,
+          "sd": 34.6,
+          "cfs": 0.2
         },
         {
           "name": "Prolix 08/09/24",
@@ -1601,19 +1601,19 @@
           "draws": 51,
           "losses": 31,
           "pct": 52.9,
-          "diff": 34.1,
-          "sd": 21.2,
-          "cfs": 94.6
+          "diff": 27.2,
+          "sd": 21.0,
+          "cfs": 90.2
         },
         {
           "name": "Prolix 05/09/24-incbin",
-          "games": 151,
-          "wins": 88,
+          "games": 135,
+          "wins": 72,
           "draws": 47,
           "losses": 16,
-          "pct": 73.8,
-          "diff": 180.2,
-          "sd": 20.1,
+          "pct": 70.7,
+          "diff": 150.8,
+          "sd": 19.2,
           "cfs": 100.0
         },
         {
@@ -1623,13 +1623,13 @@
           "draws": 42,
           "losses": 0,
           "pct": 79.0,
-          "diff": 240.0,
-          "sd": 21.8,
+          "diff": 259.7,
+          "sd": 22.9,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 189,
+        "wins": 173,
         "draws": 175,
         "losses": 67
       }
@@ -1637,8 +1637,8 @@
     {
       "rank": 16,
       "name": "Prolix 08/09/24",
-      "rating": 3044.5,
-      "error": 121.4,
+      "rating": 3101.1,
+      "error": 119.2,
       "points": 107.0,
       "played": 231,
       "pct": 46,
@@ -1650,8 +1650,8 @@
           "draws": 8,
           "losses": 10,
           "pct": 30.0,
-          "diff": -188.1,
-          "sd": 34.0,
+          "diff": -184.5,
+          "sd": 32.5,
           "cfs": 0.0
         },
         {
@@ -1661,8 +1661,8 @@
           "draws": 5,
           "losses": 14,
           "pct": 17.5,
-          "diff": -158.3,
-          "sd": 35.3,
+          "diff": -154.8,
+          "sd": 32.7,
           "cfs": 0.0
         },
         {
@@ -1672,8 +1672,8 @@
           "draws": 8,
           "losses": 11,
           "pct": 25.0,
-          "diff": -132.1,
-          "sd": 35.5,
+          "diff": -128.6,
+          "sd": 33.8,
           "cfs": 0.0
         },
         {
@@ -1683,9 +1683,9 @@
           "draws": 51,
           "losses": 38,
           "pct": 47.1,
-          "diff": -34.1,
-          "sd": 21.2,
-          "cfs": 5.4
+          "diff": -27.2,
+          "sd": 21.0,
+          "cfs": 9.8
         },
         {
           "name": "Prolix 05/09/24-incbin",
@@ -1694,8 +1694,8 @@
           "draws": 26,
           "losses": 2,
           "pct": 70.6,
-          "diff": 146.1,
-          "sd": 25.7,
+          "diff": 123.6,
+          "sd": 24.6,
           "cfs": 100.0
         }
       ],
@@ -1708,21 +1708,21 @@
     {
       "rank": 17,
       "name": "Prolix 05/09/24-incbin",
-      "rating": 2898.4,
-      "error": 114.7,
+      "rating": 2977.5,
+      "error": 113.3,
       "points": 143.5,
-      "played": 353,
-      "pct": 41,
+      "played": 319,
+      "pct": 45,
       "opponents": [
         {
           "name": "Shatranj-Stockfish 01/29/18",
-          "games": 151,
+          "games": 135,
           "wins": 16,
           "draws": 47,
-          "losses": 88,
-          "pct": 26.2,
-          "diff": -180.2,
-          "sd": 20.1,
+          "losses": 72,
+          "pct": 29.3,
+          "diff": -150.8,
+          "sd": 19.2,
           "cfs": 0.0
         },
         {
@@ -1732,36 +1732,36 @@
           "draws": 26,
           "losses": 23,
           "pct": 29.4,
-          "diff": -146.1,
-          "sd": 25.7,
+          "diff": -123.6,
+          "sd": 24.6,
           "cfs": 0.0
         },
         {
           "name": "Shatranj-Stockfish 01/20/18",
-          "games": 151,
+          "games": 133,
           "wins": 73,
           "draws": 32,
-          "losses": 46,
-          "pct": 58.9,
-          "diff": 59.9,
-          "sd": 20.1,
-          "cfs": 99.9
+          "losses": 28,
+          "pct": 66.9,
+          "diff": 108.9,
+          "sd": 19.9,
+          "cfs": 100.0
         }
       ],
       "record": {
         "wins": 91,
         "draws": 105,
-        "losses": 157
+        "losses": 123
       }
     },
     {
       "rank": 18,
       "name": "Shatranj-Stockfish 01/20/18",
-      "rating": 2838.6,
-      "error": 108.1,
-      "points": 154.5,
-      "played": 351,
-      "pct": 44,
+      "rating": 2868.6,
+      "error": 107.3,
+      "points": 136.5,
+      "played": 333,
+      "pct": 41,
       "opponents": [
         {
           "name": "Shatranj-Stockfish 01/29/18",
@@ -1770,20 +1770,20 @@
           "draws": 42,
           "losses": 58,
           "pct": 21.0,
-          "diff": -240.0,
-          "sd": 21.8,
+          "diff": -259.7,
+          "sd": 22.9,
           "cfs": 0.0
         },
         {
           "name": "Prolix 05/09/24-incbin",
-          "games": 151,
-          "wins": 46,
+          "games": 133,
+          "wins": 28,
           "draws": 32,
           "losses": 73,
-          "pct": 41.1,
-          "diff": -59.9,
-          "sd": 20.1,
-          "cfs": 0.1
+          "pct": 33.1,
+          "diff": -108.9,
+          "sd": 19.9,
+          "cfs": 0.0
         },
         {
           "name": "Tilted 29",
@@ -1793,84 +1793,24 @@
           "losses": 16,
           "pct": 71.5,
           "diff": 161.2,
-          "sd": 28.3,
+          "sd": 27.3,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 105,
+        "wins": 87,
         "draws": 99,
         "losses": 147
       }
     },
     {
       "rank": 19,
-      "name": "Prolix 02/29/24-incbin",
-      "rating": 2725.0,
-      "error": 116.2,
-      "points": 37.0,
-      "played": 54,
-      "pct": 69,
-      "opponents": [
-        {
-          "name": "Tilted 29",
-          "games": 24,
-          "wins": 10,
-          "draws": 11,
-          "losses": 3,
-          "pct": 64.6,
-          "diff": 47.6,
-          "sd": 45.8,
-          "cfs": 85.1
-        },
-        {
-          "name": "Tiyaga",
-          "games": 10,
-          "wins": 5,
-          "draws": 1,
-          "losses": 4,
-          "pct": 55.0,
-          "diff": 122.4,
-          "sd": 50.7,
-          "cfs": 99.2
-        },
-        {
-          "name": "Tilted 28",
-          "games": 10,
-          "wins": 5,
-          "draws": 5,
-          "losses": 0,
-          "pct": 75.0,
-          "diff": 280.8,
-          "sd": 52.9,
-          "cfs": 100.0
-        },
-        {
-          "name": "Prolix 02/02/24",
-          "games": 10,
-          "wins": 8,
-          "draws": 1,
-          "losses": 1,
-          "pct": 85.0,
-          "diff": 287.7,
-          "sd": 51.2,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 28,
-        "draws": 18,
-        "losses": 8
-      }
-    },
-    {
-      "rank": 20,
       "name": "Tilted 29",
-      "rating": 2677.4,
-      "error": 91.9,
+      "rating": 2707.4,
+      "error": 93.0,
       "points": 109.0,
-      "played": 214,
-      "pct": 51,
+      "played": 204,
+      "pct": 53,
       "opponents": [
         {
           "name": "Shatranj-Stockfish 01/20/18",
@@ -1880,30 +1820,30 @@
           "losses": 59,
           "pct": 28.5,
           "diff": -161.2,
-          "sd": 28.3,
+          "sd": 27.3,
           "cfs": 0.0
         },
         {
           "name": "Prolix 02/29/24-incbin",
-          "games": 24,
+          "games": 15,
           "wins": 3,
           "draws": 11,
-          "losses": 10,
-          "pct": 35.4,
-          "diff": -47.6,
-          "sd": 45.8,
-          "cfs": 14.9
+          "losses": 1,
+          "pct": 56.7,
+          "diff": 77.4,
+          "sd": 52.0,
+          "cfs": 93.2
         },
         {
           "name": "Tiyaga",
-          "games": 20,
+          "games": 19,
           "wins": 6,
           "draws": 13,
-          "losses": 1,
-          "pct": 62.5,
-          "diff": 74.8,
-          "sd": 39.3,
-          "cfs": 97.2
+          "losses": 0,
+          "pct": 65.8,
+          "diff": 137.4,
+          "sd": 38.6,
+          "cfs": 100.0
         },
         {
           "name": "Tilted 28",
@@ -1912,19 +1852,8 @@
           "draws": 6,
           "losses": 1,
           "pct": 80.0,
-          "diff": 233.2,
-          "sd": 38.2,
-          "cfs": 100.0
-        },
-        {
-          "name": "Prolix 02/02/24",
-          "games": 20,
-          "wins": 14,
-          "draws": 6,
-          "losses": 0,
-          "pct": 85.0,
-          "diff": 240.1,
-          "sd": 40.4,
+          "diff": 220.5,
+          "sd": 40.6,
           "cfs": 100.0
         },
         {
@@ -1934,7 +1863,18 @@
           "draws": 5,
           "losses": 0,
           "pct": 87.5,
-          "diff": 301.0,
+          "diff": 270.7,
+          "sd": 41.6,
+          "cfs": 100.0
+        },
+        {
+          "name": "Prolix 02/02/24",
+          "games": 20,
+          "wins": 14,
+          "draws": 6,
+          "losses": 0,
+          "pct": 85.0,
+          "diff": 300.9,
           "sd": 39.0,
           "cfs": 100.0
         },
@@ -1945,26 +1885,97 @@
           "draws": 2,
           "losses": 0,
           "pct": 90.0,
-          "diff": 451.9,
-          "sd": 42.8,
+          "diff": 457.6,
+          "sd": 43.7,
           "cfs": 100.0
         }
       ],
       "record": {
         "wins": 75,
         "draws": 68,
-        "losses": 71
+        "losses": 61
+      }
+    },
+    {
+      "rank": 20,
+      "name": "Prolix 02/29/24-incbin",
+      "rating": 2630.0,
+      "error": 121.1,
+      "points": 23.0,
+      "played": 40,
+      "pct": 58,
+      "opponents": [
+        {
+          "name": "Tilted 29",
+          "games": 15,
+          "wins": 1,
+          "draws": 11,
+          "losses": 3,
+          "pct": 43.3,
+          "diff": -77.4,
+          "sd": 52.0,
+          "cfs": 6.8
+        },
+        {
+          "name": "Tiyaga",
+          "games": 10,
+          "wins": 5,
+          "draws": 1,
+          "losses": 4,
+          "pct": 55.0,
+          "diff": 60.0,
+          "sd": 52.8,
+          "cfs": 87.2
+        },
+        {
+          "name": "Tilted 28",
+          "games": 5,
+          "wins": 0,
+          "draws": 5,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": 143.0,
+          "sd": 54.4,
+          "cfs": 99.6
+        },
+        {
+          "name": "Prolix 02/02/24",
+          "games": 10,
+          "wins": 8,
+          "draws": 1,
+          "losses": 1,
+          "pct": 85.0,
+          "diff": 223.4,
+          "sd": 52.4,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 14,
+        "draws": 18,
+        "losses": 8
       }
     },
     {
       "rank": 21,
       "name": "Tiyaga",
-      "rating": 2602.7,
-      "error": 94.6,
-      "points": 64.5,
-      "played": 100,
-      "pct": 65,
+      "rating": 2570.0,
+      "error": 90.2,
+      "points": 50.5,
+      "played": 86,
+      "pct": 59,
       "opponents": [
+        {
+          "name": "Tilted 29",
+          "games": 19,
+          "wins": 0,
+          "draws": 13,
+          "losses": 6,
+          "pct": 34.2,
+          "diff": -137.4,
+          "sd": 38.6,
+          "cfs": 0.0
+        },
         {
           "name": "Prolix 02/29/24-incbin",
           "games": 10,
@@ -1972,30 +1983,30 @@
           "draws": 1,
           "losses": 5,
           "pct": 45.0,
-          "diff": -122.4,
-          "sd": 50.7,
-          "cfs": 0.8
-        },
-        {
-          "name": "Tilted 29",
-          "games": 20,
-          "wins": 1,
-          "draws": 13,
-          "losses": 6,
-          "pct": 37.5,
-          "diff": -74.8,
-          "sd": 39.3,
-          "cfs": 2.8
+          "diff": -60.0,
+          "sd": 52.8,
+          "cfs": 12.8
         },
         {
           "name": "Tilted 28",
-          "games": 20,
-          "wins": 11,
+          "games": 15,
+          "wins": 6,
           "draws": 5,
           "losses": 4,
-          "pct": 67.5,
-          "diff": 158.5,
-          "sd": 38.4,
+          "pct": 56.7,
+          "diff": 83.1,
+          "sd": 39.2,
+          "cfs": 98.3
+        },
+        {
+          "name": "Tilted 27",
+          "games": 12,
+          "wins": 2,
+          "draws": 9,
+          "losses": 1,
+          "pct": 54.2,
+          "diff": 133.3,
+          "sd": 40.2,
           "cfs": 100.0
         },
         {
@@ -2005,19 +2016,8 @@
           "draws": 6,
           "losses": 2,
           "pct": 75.0,
-          "diff": 165.4,
-          "sd": 39.5,
-          "cfs": 100.0
-        },
-        {
-          "name": "Tilted 27",
-          "games": 20,
-          "wins": 10,
-          "draws": 9,
-          "losses": 1,
-          "pct": 72.5,
-          "diff": 226.3,
-          "sd": 41.3,
+          "diff": 163.5,
+          "sd": 37.2,
           "cfs": 100.0
         },
         {
@@ -2027,13 +2027,13 @@
           "draws": 1,
           "losses": 0,
           "pct": 95.0,
-          "diff": 377.2,
-          "sd": 44.7,
+          "diff": 320.3,
+          "sd": 40.6,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 47,
+        "wins": 33,
         "draws": 35,
         "losses": 18
       }
@@ -2041,23 +2041,12 @@
     {
       "rank": 22,
       "name": "Tilted 28",
-      "rating": 2444.2,
-      "error": 92.9,
+      "rating": 2487.0,
+      "error": 85.7,
       "points": 41.5,
-      "played": 100,
-      "pct": 42,
+      "played": 87,
+      "pct": 48,
       "opponents": [
-        {
-          "name": "Prolix 02/29/24-incbin",
-          "games": 10,
-          "wins": 0,
-          "draws": 5,
-          "losses": 5,
-          "pct": 25.0,
-          "diff": -280.8,
-          "sd": 52.9,
-          "cfs": 0.0
-        },
         {
           "name": "Tilted 29",
           "games": 20,
@@ -2065,31 +2054,31 @@
           "draws": 6,
           "losses": 13,
           "pct": 20.0,
-          "diff": -233.2,
-          "sd": 38.2,
+          "diff": -220.5,
+          "sd": 40.6,
           "cfs": 0.0
+        },
+        {
+          "name": "Prolix 02/29/24-incbin",
+          "games": 5,
+          "wins": 0,
+          "draws": 5,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": -143.0,
+          "sd": 54.4,
+          "cfs": 0.4
         },
         {
           "name": "Tiyaga",
-          "games": 20,
+          "games": 15,
           "wins": 4,
           "draws": 5,
-          "losses": 11,
-          "pct": 32.5,
-          "diff": -158.5,
-          "sd": 38.4,
-          "cfs": 0.0
-        },
-        {
-          "name": "Prolix 02/02/24",
-          "games": 20,
-          "wins": 5,
-          "draws": 9,
           "losses": 6,
-          "pct": 47.5,
-          "diff": 6.9,
-          "sd": 38.4,
-          "cfs": 57.2
+          "pct": 43.3,
+          "diff": -83.1,
+          "sd": 39.2,
+          "cfs": 1.7
         },
         {
           "name": "Tilted 27",
@@ -2098,9 +2087,20 @@
           "draws": 7,
           "losses": 5,
           "pct": 57.5,
-          "diff": 67.8,
-          "sd": 37.4,
-          "cfs": 96.5
+          "diff": 50.2,
+          "sd": 37.1,
+          "cfs": 91.2
+        },
+        {
+          "name": "Prolix 02/02/24",
+          "games": 17,
+          "wins": 5,
+          "draws": 9,
+          "losses": 3,
+          "pct": 55.9,
+          "diff": 80.4,
+          "sd": 37.3,
+          "cfs": 98.4
         },
         {
           "name": "Nebiyu 1.6",
@@ -2109,37 +2109,130 @@
           "draws": 5,
           "losses": 0,
           "pct": 75.0,
-          "diff": 218.7,
-          "sd": 42.9,
+          "diff": 237.2,
+          "sd": 39.3,
           "cfs": 100.0
         }
       ],
       "record": {
         "wins": 23,
         "draws": 37,
-        "losses": 40
+        "losses": 27
       }
     },
     {
       "rank": 23,
-      "name": "Prolix 02/02/24",
-      "rating": 2437.3,
-      "error": 89.5,
-      "points": 40.5,
-      "played": 100,
-      "pct": 41,
+      "name": "Tilted 27",
+      "rating": 2436.7,
+      "error": 55.6,
+      "points": 129.0,
+      "played": 223,
+      "pct": 58,
       "opponents": [
         {
-          "name": "Prolix 02/29/24-incbin",
-          "games": 10,
-          "wins": 1,
-          "draws": 1,
-          "losses": 8,
-          "pct": 15.0,
-          "diff": -287.7,
-          "sd": 51.2,
+          "name": "Tilted 29",
+          "games": 20,
+          "wins": 0,
+          "draws": 5,
+          "losses": 15,
+          "pct": 12.5,
+          "diff": -270.7,
+          "sd": 41.6,
           "cfs": 0.0
         },
+        {
+          "name": "Tiyaga",
+          "games": 12,
+          "wins": 1,
+          "draws": 9,
+          "losses": 2,
+          "pct": 45.8,
+          "diff": -133.3,
+          "sd": 40.2,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 28",
+          "games": 20,
+          "wins": 5,
+          "draws": 7,
+          "losses": 8,
+          "pct": 42.5,
+          "diff": -50.2,
+          "sd": 37.1,
+          "cfs": 8.8
+        },
+        {
+          "name": "Prolix 02/02/24",
+          "games": 13,
+          "wins": 4,
+          "draws": 6,
+          "losses": 3,
+          "pct": 53.8,
+          "diff": 30.2,
+          "sd": 39.8,
+          "cfs": 77.6
+        },
+        {
+          "name": "Tilted 26",
+          "games": 40,
+          "wins": 11,
+          "draws": 24,
+          "losses": 5,
+          "pct": 57.5,
+          "diff": 53.3,
+          "sd": 26.3,
+          "cfs": 97.9
+        },
+        {
+          "name": "Tilted 25",
+          "games": 40,
+          "wins": 19,
+          "draws": 19,
+          "losses": 2,
+          "pct": 71.3,
+          "diff": 134.8,
+          "sd": 24.2,
+          "cfs": 100.0
+        },
+        {
+          "name": "Nebiyu 1.45",
+          "games": 39,
+          "wins": 19,
+          "draws": 13,
+          "losses": 7,
+          "pct": 65.4,
+          "diff": 134.9,
+          "sd": 25.5,
+          "cfs": 100.0
+        },
+        {
+          "name": "Nebiyu 1.6",
+          "games": 39,
+          "wins": 21,
+          "draws": 15,
+          "losses": 3,
+          "pct": 73.1,
+          "diff": 187.0,
+          "sd": 25.5,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 80,
+        "draws": 98,
+        "losses": 45
+      }
+    },
+    {
+      "rank": 24,
+      "name": "Prolix 02/02/24",
+      "rating": 2406.5,
+      "error": 89.6,
+      "points": 30.5,
+      "played": 90,
+      "pct": 34,
+      "opponents": [
         {
           "name": "Tilted 29",
           "games": 20,
@@ -2147,8 +2240,19 @@
           "draws": 6,
           "losses": 14,
           "pct": 15.0,
-          "diff": -240.1,
-          "sd": 40.4,
+          "diff": -300.9,
+          "sd": 39.0,
+          "cfs": 0.0
+        },
+        {
+          "name": "Prolix 02/29/24-incbin",
+          "games": 10,
+          "wins": 1,
+          "draws": 1,
+          "losses": 8,
+          "pct": 15.0,
+          "diff": -223.4,
+          "sd": 52.4,
           "cfs": 0.0
         },
         {
@@ -2158,31 +2262,31 @@
           "draws": 6,
           "losses": 12,
           "pct": 25.0,
-          "diff": -165.4,
-          "sd": 39.5,
+          "diff": -163.5,
+          "sd": 37.2,
           "cfs": 0.0
         },
         {
           "name": "Tilted 28",
-          "games": 20,
-          "wins": 6,
+          "games": 17,
+          "wins": 3,
           "draws": 9,
           "losses": 5,
-          "pct": 52.5,
-          "diff": -6.9,
-          "sd": 38.4,
-          "cfs": 42.8
+          "pct": 44.1,
+          "diff": -80.4,
+          "sd": 37.3,
+          "cfs": 1.6
         },
         {
           "name": "Tilted 27",
-          "games": 20,
-          "wins": 10,
+          "games": 13,
+          "wins": 3,
           "draws": 6,
           "losses": 4,
-          "pct": 65.0,
-          "diff": 60.9,
-          "sd": 39.3,
-          "cfs": 94.0
+          "pct": 46.2,
+          "diff": -30.2,
+          "sd": 39.8,
+          "cfs": 22.4
         },
         {
           "name": "Nebiyu 1.6",
@@ -2191,129 +2295,25 @@
           "draws": 5,
           "losses": 0,
           "pct": 75.0,
-          "diff": 211.8,
-          "sd": 42.5,
+          "diff": 156.8,
+          "sd": 39.6,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 24,
+        "wins": 14,
         "draws": 33,
         "losses": 43
       }
     },
     {
-      "rank": 24,
-      "name": "Tilted 27",
-      "rating": 2376.4,
-      "error": 55.8,
-      "points": 129.0,
-      "played": 240,
-      "pct": 54,
-      "opponents": [
-        {
-          "name": "Tilted 29",
-          "games": 20,
-          "wins": 0,
-          "draws": 5,
-          "losses": 15,
-          "pct": 12.5,
-          "diff": -301.0,
-          "sd": 39.0,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tiyaga",
-          "games": 20,
-          "wins": 1,
-          "draws": 9,
-          "losses": 10,
-          "pct": 27.5,
-          "diff": -226.3,
-          "sd": 41.3,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 28",
-          "games": 20,
-          "wins": 5,
-          "draws": 7,
-          "losses": 8,
-          "pct": 42.5,
-          "diff": -67.8,
-          "sd": 37.4,
-          "cfs": 3.5
-        },
-        {
-          "name": "Prolix 02/02/24",
-          "games": 20,
-          "wins": 4,
-          "draws": 6,
-          "losses": 10,
-          "pct": 35.0,
-          "diff": -60.9,
-          "sd": 39.3,
-          "cfs": 6.0
-        },
-        {
-          "name": "Tilted 26",
-          "games": 40,
-          "wins": 11,
-          "draws": 24,
-          "losses": 5,
-          "pct": 57.5,
-          "diff": 51.8,
-          "sd": 26.3,
-          "cfs": 97.6
-        },
-        {
-          "name": "Nebiyu 1.45",
-          "games": 40,
-          "wins": 19,
-          "draws": 13,
-          "losses": 8,
-          "pct": 63.8,
-          "diff": 107.7,
-          "sd": 25.0,
-          "cfs": 100.0
-        },
-        {
-          "name": "Nebiyu 1.6",
-          "games": 40,
-          "wins": 21,
-          "draws": 15,
-          "losses": 4,
-          "pct": 71.3,
-          "diff": 150.9,
-          "sd": 24.3,
-          "cfs": 100.0
-        },
-        {
-          "name": "Tilted 25",
-          "games": 40,
-          "wins": 19,
-          "draws": 19,
-          "losses": 2,
-          "pct": 71.3,
-          "diff": 154.0,
-          "sd": 25.3,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 80,
-        "draws": 98,
-        "losses": 62
-      }
-    },
-    {
       "rank": 25,
       "name": "Tilted 26",
-      "rating": 2324.5,
-      "error": 53.9,
+      "rating": 2383.4,
+      "error": 52.6,
       "points": 118.0,
-      "played": 200,
-      "pct": 59,
+      "played": 192,
+      "pct": 61,
       "opponents": [
         {
           "name": "Tilted 27",
@@ -2322,31 +2322,9 @@
           "draws": 24,
           "losses": 11,
           "pct": 42.5,
-          "diff": -51.8,
+          "diff": -53.3,
           "sd": 26.3,
-          "cfs": 2.4
-        },
-        {
-          "name": "Nebiyu 1.45",
-          "games": 20,
-          "wins": 8,
-          "draws": 9,
-          "losses": 3,
-          "pct": 62.5,
-          "diff": 55.9,
-          "sd": 24.9,
-          "cfs": 98.8
-        },
-        {
-          "name": "Nebiyu 1.6",
-          "games": 120,
-          "wins": 44,
-          "draws": 63,
-          "losses": 13,
-          "pct": 62.9,
-          "diff": 99.1,
-          "sd": 21.6,
-          "cfs": 100.0
+          "cfs": 2.1
         },
         {
           "name": "Tilted 25",
@@ -2355,90 +2333,112 @@
           "draws": 10,
           "losses": 2,
           "pct": 65.0,
-          "diff": 102.1,
-          "sd": 25.2,
+          "diff": 81.5,
+          "sd": 23.3,
+          "cfs": 100.0
+        },
+        {
+          "name": "Nebiyu 1.45",
+          "games": 19,
+          "wins": 8,
+          "draws": 9,
+          "losses": 2,
+          "pct": 65.8,
+          "diff": 81.6,
+          "sd": 23.8,
+          "cfs": 100.0
+        },
+        {
+          "name": "Nebiyu 1.6",
+          "games": 113,
+          "wins": 44,
+          "draws": 63,
+          "losses": 6,
+          "pct": 66.8,
+          "diff": 133.7,
+          "sd": 21.3,
           "cfs": 100.0
         }
       ],
       "record": {
         "wins": 65,
         "draws": 106,
-        "losses": 29
+        "losses": 21
       }
     },
     {
       "rank": 26,
       "name": "Prolix 11/22/23",
-      "rating": 2272.7,
-      "error": 43.9,
-      "points": 200.0,
-      "played": 261,
-      "pct": 77,
+      "rating": 2360.4,
+      "error": 51.4,
+      "points": 162.5,
+      "played": 200,
+      "pct": 81,
       "opponents": [
         {
           "name": "Tilted 25",
-          "games": 39,
-          "wins": 21,
+          "games": 27,
+          "wins": 10,
           "draws": 12,
-          "losses": 6,
-          "pct": 69.2,
-          "diff": 50.3,
-          "sd": 22.6,
-          "cfs": 98.7
+          "losses": 5,
+          "pct": 59.3,
+          "diff": 58.4,
+          "sd": 27.5,
+          "cfs": 98.3
         },
         {
           "name": "Tilted 24",
-          "games": 13,
-          "wins": 8,
+          "games": 9,
+          "wins": 5,
           "draws": 4,
-          "losses": 1,
-          "pct": 76.9,
-          "diff": 101.4,
-          "sd": 25.5,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 81,
-          "wins": 49,
-          "draws": 9,
-          "losses": 23,
-          "pct": 66.0,
-          "diff": 179.7,
-          "sd": 22.4,
+          "losses": 0,
+          "pct": 77.8,
+          "diff": 131.6,
+          "sd": 29.8,
           "cfs": 100.0
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 30,
+          "games": 28,
           "wins": 22,
           "draws": 5,
-          "losses": 3,
-          "pct": 81.7,
-          "diff": 184.9,
-          "sd": 23.5,
+          "losses": 1,
+          "pct": 87.5,
+          "diff": 247.9,
+          "sd": 27.6,
           "cfs": 100.0
         },
         {
           "name": "Sjaak II 1.2.1",
-          "games": 9,
+          "games": 8,
           "wins": 7,
           "draws": 0,
-          "losses": 2,
-          "pct": 77.8,
-          "diff": 193.7,
-          "sd": 24.3,
+          "losses": 1,
+          "pct": 87.5,
+          "diff": 266.8,
+          "sd": 28.9,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 69,
+          "wins": 49,
+          "draws": 10,
+          "losses": 10,
+          "pct": 78.3,
+          "diff": 267.4,
+          "sd": 26.2,
           "cfs": 100.0
         },
         {
           "name": "Sjaak II 1.4.1",
-          "games": 8,
+          "games": 6,
           "wins": 3,
           "draws": 1,
-          "losses": 4,
-          "pct": 43.8,
-          "diff": 208.6,
-          "sd": 24.4,
+          "losses": 2,
+          "pct": 58.3,
+          "diff": 284.8,
+          "sd": 30.2,
           "cfs": 100.0
         },
         {
@@ -2448,91 +2448,239 @@
           "draws": 1,
           "losses": 0,
           "pct": 95.0,
-          "diff": 232.1,
-          "sd": 25.2,
+          "diff": 330.8,
+          "sd": 32.9,
           "cfs": 100.0
         },
         {
           "name": "Tilted 22",
-          "games": 18,
-          "wins": 13,
+          "games": 8,
+          "wins": 5,
           "draws": 2,
-          "losses": 3,
-          "pct": 77.8,
-          "diff": 294.5,
-          "sd": 25.4,
+          "losses": 1,
+          "pct": 75.0,
+          "diff": 340.9,
+          "sd": 32.6,
           "cfs": 100.0
         },
         {
           "name": "Tilted 21",
-          "games": 19,
-          "wins": 19,
+          "games": 12,
+          "wins": 12,
           "draws": 0,
           "losses": 0,
           "pct": 100.0,
-          "diff": 509.4,
-          "sd": 28.1,
+          "diff": 535.3,
+          "sd": 33.7,
           "cfs": 100.0
         },
         {
           "name": "Tilted 18",
-          "games": 16,
-          "wins": 16,
+          "games": 13,
+          "wins": 13,
           "draws": 0,
           "losses": 0,
           "pct": 100.0,
-          "diff": 700.0,
-          "sd": 27.3,
+          "diff": 738.5,
+          "sd": 33.9,
           "cfs": 100.0
         },
         {
           "name": "Tilted 17",
-          "games": 18,
-          "wins": 16,
+          "games": 10,
+          "wins": 10,
           "draws": 0,
-          "losses": 2,
-          "pct": 88.9,
-          "diff": 805.0,
-          "sd": 27.6,
+          "losses": 0,
+          "pct": 100.0,
+          "diff": 843.3,
+          "sd": 34.6,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 183,
-        "draws": 34,
-        "losses": 44
+        "wins": 145,
+        "draws": 35,
+        "losses": 20
       }
     },
     {
       "rank": 27,
-      "name": "Nebiyu 1.45",
-      "rating": 2268.6,
-      "error": 41.4,
-      "points": 341.0,
-      "played": 512,
-      "pct": 67,
+      "name": "Tilted 25",
+      "rating": 2302.0,
+      "error": 34.8,
+      "points": 503.0,
+      "played": 737,
+      "pct": 68,
       "opponents": [
         {
           "name": "Tilted 27",
           "games": 40,
-          "wins": 8,
-          "draws": 13,
+          "wins": 2,
+          "draws": 19,
           "losses": 19,
-          "pct": 36.3,
-          "diff": -107.7,
-          "sd": 25.0,
+          "pct": 28.8,
+          "diff": -134.8,
+          "sd": 24.2,
           "cfs": 0.0
         },
         {
           "name": "Tilted 26",
           "games": 20,
-          "wins": 3,
+          "wins": 2,
+          "draws": 10,
+          "losses": 8,
+          "pct": 35.0,
+          "diff": -81.5,
+          "sd": 23.3,
+          "cfs": 0.0
+        },
+        {
+          "name": "Prolix 11/22/23",
+          "games": 27,
+          "wins": 5,
+          "draws": 12,
+          "losses": 10,
+          "pct": 40.7,
+          "diff": -58.4,
+          "sd": 27.5,
+          "cfs": 1.7
+        },
+        {
+          "name": "Nebiyu 1.45",
+          "games": 64,
+          "wins": 19,
+          "draws": 30,
+          "losses": 15,
+          "pct": 53.1,
+          "diff": 0.2,
+          "sd": 17.8,
+          "cfs": 50.4
+        },
+        {
+          "name": "Nebiyu 1.6",
+          "games": 17,
+          "wins": 5,
+          "draws": 6,
+          "losses": 6,
+          "pct": 47.1,
+          "diff": 52.2,
+          "sd": 19.1,
+          "cfs": 99.7
+        },
+        {
+          "name": "Tilted 24",
+          "games": 30,
+          "wins": 9,
+          "draws": 18,
+          "losses": 3,
+          "pct": 60.0,
+          "diff": 73.2,
+          "sd": 22.0,
+          "cfs": 100.0
+        },
+        {
+          "name": "ShaMax 4.8S",
+          "games": 47,
+          "wins": 10,
+          "draws": 36,
+          "losses": 1,
+          "pct": 59.6,
+          "diff": 81.3,
+          "sd": 15.6,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.2.1",
+          "games": 179,
+          "wins": 109,
+          "draws": 53,
+          "losses": 17,
+          "pct": 75.7,
+          "diff": 208.4,
+          "sd": 15.4,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 89,
+          "wins": 57,
+          "draws": 27,
+          "losses": 5,
+          "pct": 79.2,
+          "diff": 209.0,
+          "sd": 17.7,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.4.1",
+          "games": 207,
+          "wins": 138,
+          "draws": 55,
+          "losses": 14,
+          "pct": 80.0,
+          "diff": 226.4,
+          "sd": 16.2,
+          "cfs": 100.0
+        },
+        {
+          "name": "Pulsar 2009-9b",
+          "games": 17,
+          "wins": 11,
+          "draws": 6,
+          "losses": 0,
+          "pct": 82.4,
+          "diff": 329.5,
+          "sd": 20.6,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 367,
+        "draws": 272,
+        "losses": 98
+      }
+    },
+    {
+      "rank": 28,
+      "name": "Nebiyu 1.45",
+      "rating": 2301.8,
+      "error": 42.8,
+      "points": 323.5,
+      "played": 490,
+      "pct": 66,
+      "opponents": [
+        {
+          "name": "Tilted 27",
+          "games": 39,
+          "wins": 7,
+          "draws": 13,
+          "losses": 19,
+          "pct": 34.6,
+          "diff": -134.9,
+          "sd": 25.5,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 26",
+          "games": 19,
+          "wins": 2,
           "draws": 9,
           "losses": 8,
-          "pct": 37.5,
-          "diff": -55.9,
-          "sd": 24.9,
-          "cfs": 1.2
+          "pct": 34.2,
+          "diff": -81.6,
+          "sd": 23.8,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 25",
+          "games": 64,
+          "wins": 15,
+          "draws": 30,
+          "losses": 19,
+          "pct": 46.9,
+          "diff": -0.2,
+          "sd": 17.8,
+          "cfs": 49.6
         },
         {
           "name": "Nebiyu 1.6",
@@ -2541,20 +2689,9 @@
           "draws": 14,
           "losses": 5,
           "pct": 40.0,
-          "diff": 43.2,
-          "sd": 20.8,
-          "cfs": 98.1
-        },
-        {
-          "name": "Tilted 25",
-          "games": 72,
-          "wins": 23,
-          "draws": 30,
-          "losses": 19,
-          "pct": 52.8,
-          "diff": 46.2,
-          "sd": 18.1,
-          "cfs": 99.5
+          "diff": 52.0,
+          "sd": 20.9,
+          "cfs": 99.4
         },
         {
           "name": "ShaMax 4.8S",
@@ -2563,19 +2700,19 @@
           "draws": 9,
           "losses": 2,
           "pct": 65.8,
-          "diff": 70.4,
-          "sd": 18.7,
+          "diff": 81.1,
+          "sd": 19.2,
           "cfs": 100.0
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 298,
+          "games": 289,
           "wins": 186,
-          "draws": 80,
+          "draws": 71,
           "losses": 32,
-          "pct": 75.8,
-          "diff": 180.8,
-          "sd": 15.3,
+          "pct": 76.6,
+          "diff": 189.4,
+          "sd": 15.4,
           "cfs": 100.0
         },
         {
@@ -2585,36 +2722,36 @@
           "draws": 7,
           "losses": 2,
           "pct": 73.8,
-          "diff": 204.5,
-          "sd": 21.6,
+          "diff": 226.2,
+          "sd": 22.2,
           "cfs": 100.0
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 22,
-          "wins": 16,
+          "games": 19,
+          "wins": 13,
           "draws": 6,
           "losses": 0,
-          "pct": 86.4,
-          "diff": 359.4,
-          "sd": 21.3,
+          "pct": 84.2,
+          "diff": 329.3,
+          "sd": 22.6,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 257,
-        "draws": 168,
+        "wins": 244,
+        "draws": 159,
         "losses": 87
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "Nebiyu 1.6",
-      "rating": 2225.5,
-      "error": 43.8,
-      "points": 187.5,
-      "played": 415,
-      "pct": 45,
+      "rating": 2249.8,
+      "error": 45.9,
+      "points": 175.5,
+      "played": 402,
+      "pct": 44,
       "opponents": [
         {
           "name": "Tilted 29",
@@ -2623,8 +2760,8 @@
           "draws": 2,
           "losses": 8,
           "pct": 10.0,
-          "diff": -451.9,
-          "sd": 42.8,
+          "diff": -457.6,
+          "sd": 43.7,
           "cfs": 0.0
         },
         {
@@ -2634,8 +2771,8 @@
           "draws": 1,
           "losses": 9,
           "pct": 5.0,
-          "diff": -377.2,
-          "sd": 44.7,
+          "diff": -320.3,
+          "sd": 40.6,
           "cfs": 0.0
         },
         {
@@ -2645,8 +2782,19 @@
           "draws": 5,
           "losses": 5,
           "pct": 25.0,
-          "diff": -218.7,
-          "sd": 42.9,
+          "diff": -237.2,
+          "sd": 39.3,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 27",
+          "games": 39,
+          "wins": 3,
+          "draws": 15,
+          "losses": 21,
+          "pct": 26.9,
+          "diff": -187.0,
+          "sd": 25.5,
           "cfs": 0.0
         },
         {
@@ -2656,31 +2804,31 @@
           "draws": 5,
           "losses": 5,
           "pct": 25.0,
-          "diff": -211.8,
-          "sd": 42.5,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 27",
-          "games": 40,
-          "wins": 4,
-          "draws": 15,
-          "losses": 21,
-          "pct": 28.8,
-          "diff": -150.9,
-          "sd": 24.3,
+          "diff": -156.8,
+          "sd": 39.6,
           "cfs": 0.0
         },
         {
           "name": "Tilted 26",
-          "games": 120,
-          "wins": 13,
+          "games": 113,
+          "wins": 6,
           "draws": 63,
           "losses": 44,
-          "pct": 37.1,
-          "diff": -99.1,
-          "sd": 21.6,
+          "pct": 33.2,
+          "diff": -133.7,
+          "sd": 21.3,
           "cfs": 0.0
+        },
+        {
+          "name": "Tilted 25",
+          "games": 17,
+          "wins": 6,
+          "draws": 6,
+          "losses": 5,
+          "pct": 52.9,
+          "diff": -52.2,
+          "sd": 19.1,
+          "cfs": 0.3
         },
         {
           "name": "Nebiyu 1.45",
@@ -2689,20 +2837,9 @@
           "draws": 14,
           "losses": 1,
           "pct": 60.0,
-          "diff": -43.2,
-          "sd": 20.8,
-          "cfs": 1.9
-        },
-        {
-          "name": "Tilted 25",
-          "games": 20,
-          "wins": 9,
-          "draws": 6,
-          "losses": 5,
-          "pct": 60.0,
-          "diff": 3.0,
-          "sd": 19.2,
-          "cfs": 56.3
+          "diff": -52.0,
+          "sd": 20.9,
+          "cfs": 0.6
         },
         {
           "name": "ShaMax 4.8S",
@@ -2711,9 +2848,31 @@
           "draws": 52,
           "losses": 23,
           "pct": 48.4,
-          "diff": 27.2,
-          "sd": 18.2,
-          "cfs": 93.3
+          "diff": 29.0,
+          "sd": 18.9,
+          "cfs": 93.8
+        },
+        {
+          "name": "Sjaak II 1.0.0",
+          "games": 38,
+          "wins": 21,
+          "draws": 10,
+          "losses": 7,
+          "pct": 68.4,
+          "diff": 137.3,
+          "sd": 20.4,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.2.1",
+          "games": 10,
+          "wins": 7,
+          "draws": 2,
+          "losses": 1,
+          "pct": 80.0,
+          "diff": 156.1,
+          "sd": 19.8,
+          "cfs": 100.0
         },
         {
           "name": "Sjaak II 1.3.0",
@@ -2722,30 +2881,8 @@
           "draws": 4,
           "losses": 1,
           "pct": 70.0,
-          "diff": 132.5,
-          "sd": 22.4,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.0.0",
-          "games": 40,
-          "wins": 21,
-          "draws": 12,
-          "losses": 7,
-          "pct": 67.5,
-          "diff": 137.7,
-          "sd": 20.0,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.2.1",
-          "games": 10,
-          "wins": 7,
-          "draws": 2,
-          "losses": 1,
-          "pct": 80.0,
-          "diff": 146.4,
-          "sd": 19.4,
+          "diff": 156.8,
+          "sd": 23.4,
           "cfs": 100.0
         },
         {
@@ -2755,8 +2892,8 @@
           "draws": 4,
           "losses": 3,
           "pct": 50.0,
-          "diff": 161.3,
-          "sd": 22.5,
+          "diff": 174.1,
+          "sd": 23.3,
           "cfs": 100.0
         },
         {
@@ -2766,375 +2903,35 @@
           "draws": 4,
           "losses": 0,
           "pct": 80.0,
-          "diff": 184.8,
-          "sd": 23.4,
+          "diff": 220.2,
+          "sd": 27.7,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 93,
-        "draws": 189,
+        "wins": 82,
+        "draws": 187,
         "losses": 133
       }
     },
     {
-      "rank": 29,
-      "name": "Tilted 25",
-      "rating": 2222.4,
-      "error": 33.0,
-      "points": 504.5,
-      "played": 816,
-      "pct": 62,
-      "opponents": [
-        {
-          "name": "Tilted 27",
-          "games": 40,
-          "wins": 2,
-          "draws": 19,
-          "losses": 19,
-          "pct": 28.8,
-          "diff": -154.0,
-          "sd": 25.3,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 26",
-          "games": 20,
-          "wins": 2,
-          "draws": 10,
-          "losses": 8,
-          "pct": 35.0,
-          "diff": -102.1,
-          "sd": 25.2,
-          "cfs": 0.0
-        },
-        {
-          "name": "Prolix 11/22/23",
-          "games": 39,
-          "wins": 6,
-          "draws": 12,
-          "losses": 21,
-          "pct": 30.8,
-          "diff": -50.3,
-          "sd": 22.6,
-          "cfs": 1.3
-        },
-        {
-          "name": "Nebiyu 1.45",
-          "games": 72,
-          "wins": 19,
-          "draws": 30,
-          "losses": 23,
-          "pct": 47.2,
-          "diff": -46.2,
-          "sd": 18.1,
-          "cfs": 0.5
-        },
-        {
-          "name": "Nebiyu 1.6",
-          "games": 20,
-          "wins": 5,
-          "draws": 6,
-          "losses": 9,
-          "pct": 40.0,
-          "diff": -3.0,
-          "sd": 19.2,
-          "cfs": 43.7
-        },
-        {
-          "name": "ShaMax 4.8S",
-          "games": 51,
-          "wins": 10,
-          "draws": 36,
-          "losses": 5,
-          "pct": 54.9,
-          "diff": 24.2,
-          "sd": 15.2,
-          "cfs": 94.4
-        },
-        {
-          "name": "Tilted 24",
-          "games": 30,
-          "wins": 9,
-          "draws": 18,
-          "losses": 3,
-          "pct": 60.0,
-          "diff": 51.0,
-          "sd": 19.5,
-          "cfs": 99.6
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 100,
-          "wins": 56,
-          "draws": 27,
-          "losses": 17,
-          "pct": 69.5,
-          "diff": 129.4,
-          "sd": 16.9,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.2.1",
-          "games": 200,
-          "wins": 108,
-          "draws": 54,
-          "losses": 38,
-          "pct": 67.5,
-          "diff": 143.4,
-          "sd": 14.7,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.4.1",
-          "games": 222,
-          "wins": 135,
-          "draws": 55,
-          "losses": 32,
-          "pct": 73.2,
-          "diff": 158.3,
-          "sd": 16.4,
-          "cfs": 100.0
-        },
-        {
-          "name": "Pulsar 2009-9b",
-          "games": 22,
-          "wins": 16,
-          "draws": 6,
-          "losses": 0,
-          "pct": 86.4,
-          "diff": 313.2,
-          "sd": 19.3,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 368,
-        "draws": 273,
-        "losses": 175
-      }
-    },
-    {
       "rank": 30,
-      "name": "ShaMax 4.8S",
-      "rating": 2198.3,
-      "error": 33.0,
-      "points": 620.5,
-      "played": 913,
-      "pct": 68,
-      "opponents": [
-        {
-          "name": "Nebiyu 1.45",
-          "games": 19,
-          "wins": 2,
-          "draws": 9,
-          "losses": 8,
-          "pct": 34.2,
-          "diff": -70.4,
-          "sd": 18.7,
-          "cfs": 0.0
-        },
-        {
-          "name": "Nebiyu 1.6",
-          "games": 95,
-          "wins": 23,
-          "draws": 52,
-          "losses": 20,
-          "pct": 51.6,
-          "diff": -27.2,
-          "sd": 18.2,
-          "cfs": 6.7
-        },
-        {
-          "name": "Tilted 25",
-          "games": 51,
-          "wins": 5,
-          "draws": 36,
-          "losses": 10,
-          "pct": 45.1,
-          "diff": -24.2,
-          "sd": 15.2,
-          "cfs": 5.6
-        },
-        {
-          "name": "Tilted 24",
-          "games": 22,
-          "wins": 3,
-          "draws": 16,
-          "losses": 3,
-          "pct": 50.0,
-          "diff": 26.9,
-          "sd": 19.8,
-          "cfs": 91.3
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 97,
-          "wins": 41,
-          "draws": 45,
-          "losses": 11,
-          "pct": 65.5,
-          "diff": 105.3,
-          "sd": 16.8,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.2.1",
-          "games": 388,
-          "wins": 182,
-          "draws": 153,
-          "losses": 53,
-          "pct": 66.6,
-          "diff": 119.2,
-          "sd": 12.6,
-          "cfs": 100.0
-        },
-        {
-          "name": "Sjaak II 1.4.1",
-          "games": 21,
-          "wins": 12,
-          "draws": 8,
-          "losses": 1,
-          "pct": 76.2,
-          "diff": 134.1,
-          "sd": 19.1,
-          "cfs": 100.0
-        },
-        {
-          "name": "Tilted 22",
-          "games": 41,
-          "wins": 21,
-          "draws": 18,
-          "losses": 2,
-          "pct": 73.2,
-          "diff": 220.0,
-          "sd": 18.8,
-          "cfs": 100.0
-        },
-        {
-          "name": "Pulsar 2009-9b",
-          "games": 22,
-          "wins": 12,
-          "draws": 9,
-          "losses": 1,
-          "pct": 75.0,
-          "diff": 289.0,
-          "sd": 18.7,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 1.50a",
-          "games": 19,
-          "wins": 15,
-          "draws": 3,
-          "losses": 1,
-          "pct": 86.8,
-          "diff": 357.5,
-          "sd": 19.2,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 2.62",
-          "games": 16,
-          "wins": 14,
-          "draws": 1,
-          "losses": 1,
-          "pct": 90.6,
-          "diff": 375.9,
-          "sd": 19.6,
-          "cfs": 100.0
-        },
-        {
-          "name": "Tilted 21",
-          "games": 20,
-          "wins": 16,
-          "draws": 4,
-          "losses": 0,
-          "pct": 90.0,
-          "diff": 435.0,
-          "sd": 22.4,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 4.18",
-          "games": 20,
-          "wins": 17,
-          "draws": 3,
-          "losses": 0,
-          "pct": 92.5,
-          "diff": 443.2,
-          "sd": 23.1,
-          "cfs": 100.0
-        },
-        {
-          "name": "Tilted 18",
-          "games": 21,
-          "wins": 19,
-          "draws": 2,
-          "losses": 0,
-          "pct": 95.2,
-          "diff": 625.5,
-          "sd": 23.5,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 5.67",
-          "games": 20,
-          "wins": 20,
-          "draws": 0,
-          "losses": 0,
-          "pct": 100.0,
-          "diff": 701.6,
-          "sd": 24.9,
-          "cfs": 100.0
-        },
-        {
-          "name": "Tilted 17",
-          "games": 21,
-          "wins": 17,
-          "draws": 4,
-          "losses": 0,
-          "pct": 90.5,
-          "diff": 730.5,
-          "sd": 23.4,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 6.52",
-          "games": 20,
-          "wins": 20,
-          "draws": 0,
-          "losses": 0,
-          "pct": 100.0,
-          "diff": 752.2,
-          "sd": 25.9,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 439,
-        "draws": 363,
-        "losses": 111
-      }
-    },
-    {
-      "rank": 31,
       "name": "Tilted 24",
-      "rating": 2171.4,
-      "error": 37.9,
-      "points": 316.0,
-      "played": 436,
-      "pct": 72,
+      "rating": 2228.7,
+      "error": 41.4,
+      "points": 305.5,
+      "played": 393,
+      "pct": 78,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 13,
-          "wins": 1,
+          "games": 9,
+          "wins": 0,
           "draws": 4,
-          "losses": 8,
-          "pct": 23.1,
-          "diff": -101.4,
-          "sd": 25.5,
+          "losses": 5,
+          "pct": 22.2,
+          "diff": -131.6,
+          "sd": 29.8,
           "cfs": 0.0
         },
         {
@@ -3144,41 +2941,30 @@
           "draws": 18,
           "losses": 9,
           "pct": 40.0,
-          "diff": -51.0,
-          "sd": 19.5,
-          "cfs": 0.4
+          "diff": -73.2,
+          "sd": 22.0,
+          "cfs": 0.0
         },
         {
           "name": "ShaMax 4.8S",
-          "games": 22,
-          "wins": 3,
-          "draws": 16,
-          "losses": 3,
-          "pct": 50.0,
-          "diff": -26.9,
-          "sd": 19.8,
-          "cfs": 8.7
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 110,
-          "wins": 48,
-          "draws": 37,
-          "losses": 25,
-          "pct": 60.5,
-          "diff": 78.4,
-          "sd": 19.4,
-          "cfs": 100.0
+          "games": 2,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "pct": 100.0,
+          "diff": 8.0,
+          "sd": 23.3,
+          "cfs": 63.5
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 40,
+          "games": 36,
           "wins": 18,
           "draws": 15,
-          "losses": 7,
-          "pct": 63.8,
-          "diff": 83.6,
-          "sd": 20.1,
+          "losses": 3,
+          "pct": 70.8,
+          "diff": 116.3,
+          "sd": 21.7,
           "cfs": 100.0
         },
         {
@@ -3188,19 +2974,30 @@
           "draws": 2,
           "losses": 1,
           "pct": 80.0,
-          "diff": 92.3,
-          "sd": 21.0,
+          "diff": 135.1,
+          "sd": 23.8,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 98,
+          "wins": 49,
+          "draws": 36,
+          "losses": 13,
+          "pct": 68.4,
+          "diff": 135.7,
+          "sd": 21.1,
           "cfs": 100.0
         },
         {
           "name": "Sjaak II 1.4.1",
-          "games": 10,
+          "games": 8,
           "wins": 5,
           "draws": 3,
-          "losses": 2,
-          "pct": 65.0,
-          "diff": 107.2,
-          "sd": 22.0,
+          "losses": 0,
+          "pct": 81.3,
+          "diff": 153.1,
+          "sd": 25.0,
           "cfs": 100.0
         },
         {
@@ -3210,8 +3007,8 @@
           "draws": 4,
           "losses": 0,
           "pct": 80.0,
-          "diff": 130.7,
-          "sd": 22.5,
+          "diff": 199.2,
+          "sd": 28.1,
           "cfs": 100.0
         },
         {
@@ -3221,8 +3018,8 @@
           "draws": 6,
           "losses": 1,
           "pct": 89.2,
-          "diff": 330.6,
-          "sd": 20.6,
+          "diff": 369.2,
+          "sd": 23.5,
           "cfs": 100.0
         },
         {
@@ -3232,19 +3029,19 @@
           "draws": 8,
           "losses": 0,
           "pct": 89.2,
-          "diff": 349.0,
-          "sd": 21.0,
+          "diff": 389.5,
+          "sd": 23.8,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 4.18",
-          "games": 38,
-          "wins": 31,
+          "games": 37,
+          "wins": 30,
           "draws": 6,
           "losses": 1,
-          "pct": 89.5,
-          "diff": 416.3,
-          "sd": 24.1,
+          "pct": 89.2,
+          "diff": 465.0,
+          "sd": 27.2,
           "cfs": 100.0
         },
         {
@@ -3254,8 +3051,8 @@
           "draws": 4,
           "losses": 0,
           "pct": 95.0,
-          "diff": 674.7,
-          "sd": 25.5,
+          "diff": 713.1,
+          "sd": 31.6,
           "cfs": 100.0
         },
         {
@@ -3265,35 +3062,512 @@
           "draws": 1,
           "losses": 1,
           "pct": 96.2,
-          "diff": 725.3,
-          "sd": 26.5,
+          "diff": 768.1,
+          "sd": 33.7,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 254,
-        "draws": 124,
-        "losses": 58
+        "wins": 252,
+        "draws": 107,
+        "losses": 34
+      }
+    },
+    {
+      "rank": 31,
+      "name": "ShaMax 4.8S",
+      "rating": 2220.7,
+      "error": 34.9,
+      "points": 509.5,
+      "played": 775,
+      "pct": 66,
+      "opponents": [
+        {
+          "name": "Tilted 25",
+          "games": 47,
+          "wins": 1,
+          "draws": 36,
+          "losses": 10,
+          "pct": 40.4,
+          "diff": -81.3,
+          "sd": 15.6,
+          "cfs": 0.0
+        },
+        {
+          "name": "Nebiyu 1.45",
+          "games": 19,
+          "wins": 2,
+          "draws": 9,
+          "losses": 8,
+          "pct": 34.2,
+          "diff": -81.1,
+          "sd": 19.2,
+          "cfs": 0.0
+        },
+        {
+          "name": "Nebiyu 1.6",
+          "games": 95,
+          "wins": 23,
+          "draws": 52,
+          "losses": 20,
+          "pct": 51.6,
+          "diff": -29.0,
+          "sd": 18.9,
+          "cfs": 6.2
+        },
+        {
+          "name": "Tilted 24",
+          "games": 2,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "pct": 0.0,
+          "diff": -8.0,
+          "sd": 23.3,
+          "cfs": 36.5
+        },
+        {
+          "name": "Sjaak II 1.2.1",
+          "games": 386,
+          "wins": 182,
+          "draws": 153,
+          "losses": 51,
+          "pct": 67.0,
+          "diff": 127.1,
+          "sd": 11.9,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 96,
+          "wins": 41,
+          "draws": 45,
+          "losses": 10,
+          "pct": 66.1,
+          "diff": 127.7,
+          "sd": 17.8,
+          "cfs": 100.0
+        },
+        {
+          "name": "Sjaak II 1.4.1",
+          "games": 21,
+          "wins": 12,
+          "draws": 8,
+          "losses": 1,
+          "pct": 76.2,
+          "diff": 145.1,
+          "sd": 20.1,
+          "cfs": 100.0
+        },
+        {
+          "name": "Tilted 22",
+          "games": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": 201.2,
+          "sd": 24.9,
+          "cfs": 100.0
+        },
+        {
+          "name": "Pulsar 2009-9b",
+          "games": 18,
+          "wins": 8,
+          "draws": 9,
+          "losses": 1,
+          "pct": 69.4,
+          "diff": 248.2,
+          "sd": 21.6,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 1.50a",
+          "games": 19,
+          "wins": 15,
+          "draws": 3,
+          "losses": 1,
+          "pct": 86.8,
+          "diff": 361.2,
+          "sd": 21.7,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 2.62",
+          "games": 9,
+          "wins": 7,
+          "draws": 1,
+          "losses": 1,
+          "pct": 83.3,
+          "diff": 381.4,
+          "sd": 22.4,
+          "cfs": 100.0
+        },
+        {
+          "name": "Tilted 21",
+          "games": 2,
+          "wins": 1,
+          "draws": 1,
+          "losses": 0,
+          "pct": 75.0,
+          "diff": 395.7,
+          "sd": 26.8,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 4.18",
+          "games": 20,
+          "wins": 17,
+          "draws": 3,
+          "losses": 0,
+          "pct": 92.5,
+          "diff": 456.9,
+          "sd": 25.7,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 5.67",
+          "games": 20,
+          "wins": 20,
+          "draws": 0,
+          "losses": 0,
+          "pct": 100.0,
+          "diff": 705.1,
+          "sd": 29.5,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 6.52",
+          "games": 20,
+          "wins": 20,
+          "draws": 0,
+          "losses": 0,
+          "pct": 100.0,
+          "diff": 760.0,
+          "sd": 30.8,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 349,
+        "draws": 321,
+        "losses": 105
       }
     },
     {
       "rank": 32,
-      "name": "Sjaak II 1.3.0",
-      "rating": 2093.0,
-      "error": null,
-      "points": 175.5,
-      "played": 466,
-      "pct": 38,
+      "name": "Sjaak II 1.0.0",
+      "rating": 2112.4,
+      "error": 37.7,
+      "points": 440.5,
+      "played": 821,
+      "pct": 54,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 81,
-          "wins": 23,
+          "games": 28,
+          "wins": 1,
+          "draws": 5,
+          "losses": 22,
+          "pct": 12.5,
+          "diff": -247.9,
+          "sd": 27.6,
+          "cfs": 0.0
+        },
+        {
+          "name": "Nebiyu 1.45",
+          "games": 289,
+          "wins": 32,
+          "draws": 71,
+          "losses": 186,
+          "pct": 23.4,
+          "diff": -189.4,
+          "sd": 15.4,
+          "cfs": 0.0
+        },
+        {
+          "name": "Nebiyu 1.6",
+          "games": 38,
+          "wins": 7,
+          "draws": 10,
+          "losses": 21,
+          "pct": 31.6,
+          "diff": -137.3,
+          "sd": 20.4,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 24",
+          "games": 36,
+          "wins": 3,
+          "draws": 15,
+          "losses": 18,
+          "pct": 29.2,
+          "diff": -116.3,
+          "sd": 21.7,
+          "cfs": 0.0
+        },
+        {
+          "name": "Sjaak II 1.2.1",
+          "games": 10,
+          "wins": 0,
+          "draws": 8,
+          "losses": 2,
+          "pct": 40.0,
+          "diff": 18.8,
+          "sd": 18.3,
+          "cfs": 84.8
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 10,
+          "wins": 2,
+          "draws": 7,
+          "losses": 1,
+          "pct": 55.0,
+          "diff": 19.4,
+          "sd": 19.2,
+          "cfs": 84.4
+        },
+        {
+          "name": "Sjaak II 1.4.1",
+          "games": 10,
+          "wins": 0,
+          "draws": 8,
+          "losses": 2,
+          "pct": 40.0,
+          "diff": 36.8,
+          "sd": 21.5,
+          "cfs": 95.6
+        },
+        {
+          "name": "Sjaak II 1.3.1a",
+          "games": 10,
+          "wins": 1,
           "draws": 9,
+          "losses": 0,
+          "pct": 55.0,
+          "diff": 82.9,
+          "sd": 25.8,
+          "cfs": 99.9
+        },
+        {
+          "name": "Tilted 22",
+          "games": 9,
+          "wins": 6,
+          "draws": 1,
+          "losses": 2,
+          "pct": 72.2,
+          "diff": 92.9,
+          "sd": 24.6,
+          "cfs": 100.0
+        },
+        {
+          "name": "Pulsar 2009-9b",
+          "games": 14,
+          "wins": 6,
+          "draws": 5,
+          "losses": 3,
+          "pct": 60.7,
+          "diff": 139.9,
+          "sd": 21.4,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 1.50a",
+          "games": 181,
+          "wins": 136,
+          "draws": 23,
+          "losses": 22,
+          "pct": 81.5,
+          "diff": 252.9,
+          "sd": 15.3,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 2.62",
+          "games": 186,
+          "wins": 156,
+          "draws": 19,
+          "losses": 11,
+          "pct": 89.0,
+          "diff": 273.1,
+          "sd": 16.1,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 350,
+        "draws": 181,
+        "losses": 290
+      }
+    },
+    {
+      "rank": 33,
+      "name": "Sjaak II 1.2.1",
+      "rating": 2093.6,
+      "error": 37.8,
+      "points": 211.0,
+      "played": 656,
+      "pct": 32,
+      "opponents": [
+        {
+          "name": "Prolix 11/22/23",
+          "games": 8,
+          "wins": 1,
+          "draws": 0,
+          "losses": 7,
+          "pct": 12.5,
+          "diff": -266.8,
+          "sd": 28.9,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 25",
+          "games": 179,
+          "wins": 17,
+          "draws": 53,
+          "losses": 109,
+          "pct": 24.3,
+          "diff": -208.4,
+          "sd": 15.4,
+          "cfs": 0.0
+        },
+        {
+          "name": "Nebiyu 1.6",
+          "games": 10,
+          "wins": 1,
+          "draws": 2,
+          "losses": 7,
+          "pct": 20.0,
+          "diff": -156.1,
+          "sd": 19.8,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 24",
+          "games": 10,
+          "wins": 1,
+          "draws": 2,
+          "losses": 7,
+          "pct": 20.0,
+          "diff": -135.1,
+          "sd": 23.8,
+          "cfs": 0.0
+        },
+        {
+          "name": "ShaMax 4.8S",
+          "games": 386,
+          "wins": 51,
+          "draws": 153,
+          "losses": 182,
+          "pct": 33.0,
+          "diff": -127.1,
+          "sd": 11.9,
+          "cfs": 0.0
+        },
+        {
+          "name": "Sjaak II 1.0.0",
+          "games": 10,
+          "wins": 2,
+          "draws": 8,
+          "losses": 0,
+          "pct": 60.0,
+          "diff": -18.8,
+          "sd": 18.3,
+          "cfs": 15.2
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 10,
+          "wins": 0,
+          "draws": 10,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": 0.6,
+          "sd": 19.3,
+          "cfs": 51.3
+        },
+        {
+          "name": "Sjaak II 1.4.1",
+          "games": 10,
+          "wins": 2,
+          "draws": 6,
+          "losses": 2,
+          "pct": 50.0,
+          "diff": 18.0,
+          "sd": 20.7,
+          "cfs": 80.8
+        },
+        {
+          "name": "Sjaak II 1.3.1a",
+          "games": 10,
+          "wins": 2,
+          "draws": 6,
+          "losses": 2,
+          "pct": 50.0,
+          "diff": 64.0,
+          "sd": 24.7,
+          "cfs": 99.5
+        },
+        {
+          "name": "Tilted 22",
+          "games": 7,
+          "wins": 2,
+          "draws": 4,
+          "losses": 1,
+          "pct": 57.1,
+          "diff": 74.1,
+          "sd": 25.1,
+          "cfs": 99.8
+        },
+        {
+          "name": "Pulsar 2009-9b",
+          "games": 16,
+          "wins": 5,
+          "draws": 10,
+          "losses": 1,
+          "pct": 62.5,
+          "diff": 121.1,
+          "sd": 21.8,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 84,
+        "draws": 254,
+        "losses": 318
+      }
+    },
+    {
+      "rank": 34,
+      "name": "Sjaak II 1.3.0",
+      "rating": 2093.0,
+      "error": null,
+      "points": 132.5,
+      "played": 423,
+      "pct": 31,
+      "opponents": [
+        {
+          "name": "Prolix 11/22/23",
+          "games": 69,
+          "wins": 10,
+          "draws": 10,
           "losses": 49,
-          "pct": 34.0,
-          "diff": -179.7,
-          "sd": 22.4,
+          "pct": 21.7,
+          "diff": -267.4,
+          "sd": 26.2,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 25",
+          "games": 89,
+          "wins": 5,
+          "draws": 27,
+          "losses": 57,
+          "pct": 20.8,
+          "diff": -209.0,
+          "sd": 17.7,
           "cfs": 0.0
         },
         {
@@ -3303,41 +3577,30 @@
           "draws": 4,
           "losses": 5,
           "pct": 30.0,
-          "diff": -132.5,
-          "sd": 22.4,
+          "diff": -156.8,
+          "sd": 23.4,
           "cfs": 0.0
         },
         {
-          "name": "Tilted 25",
-          "games": 100,
-          "wins": 17,
-          "draws": 27,
-          "losses": 56,
-          "pct": 30.5,
-          "diff": -129.4,
-          "sd": 16.9,
+          "name": "Tilted 24",
+          "games": 98,
+          "wins": 13,
+          "draws": 36,
+          "losses": 49,
+          "pct": 31.6,
+          "diff": -135.7,
+          "sd": 21.1,
           "cfs": 0.0
         },
         {
           "name": "ShaMax 4.8S",
-          "games": 97,
-          "wins": 11,
+          "games": 96,
+          "wins": 10,
           "draws": 45,
           "losses": 41,
-          "pct": 34.5,
-          "diff": -105.3,
-          "sd": 16.8,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 24",
-          "games": 110,
-          "wins": 25,
-          "draws": 37,
-          "losses": 48,
-          "pct": 39.5,
-          "diff": -78.4,
-          "sd": 19.4,
+          "pct": 33.9,
+          "diff": -127.7,
+          "sd": 17.8,
           "cfs": 0.0
         },
         {
@@ -3347,9 +3610,9 @@
           "draws": 7,
           "losses": 2,
           "pct": 45.0,
-          "diff": 5.2,
-          "sd": 19.4,
-          "cfs": 60.6
+          "diff": -19.4,
+          "sd": 19.2,
+          "cfs": 15.6
         },
         {
           "name": "Sjaak II 1.2.1",
@@ -3358,9 +3621,9 @@
           "draws": 10,
           "losses": 0,
           "pct": 50.0,
-          "diff": 13.9,
-          "sd": 19.1,
-          "cfs": 76.7
+          "diff": -0.6,
+          "sd": 19.3,
+          "cfs": 48.7
         },
         {
           "name": "Sjaak II 1.4.1",
@@ -3369,9 +3632,9 @@
           "draws": 9,
           "losses": 1,
           "pct": 45.0,
-          "diff": 28.9,
-          "sd": 20.0,
-          "cfs": 92.6
+          "diff": 17.4,
+          "sd": 21.0,
+          "cfs": 79.6
         },
         {
           "name": "Sjaak II 1.3.1a",
@@ -3380,342 +3643,68 @@
           "draws": 8,
           "losses": 1,
           "pct": 50.0,
-          "diff": 52.3,
-          "sd": 20.5,
-          "cfs": 99.5
+          "diff": 63.4,
+          "sd": 25.2,
+          "cfs": 99.4
         },
         {
           "name": "Tilted 22",
-          "games": 10,
-          "wins": 5,
+          "games": 7,
+          "wins": 2,
           "draws": 3,
           "losses": 2,
-          "pct": 65.0,
-          "diff": 114.8,
-          "sd": 20.8,
-          "cfs": 100.0
-        },
-        {
-          "name": "Pulsar 2009-9b",
-          "games": 18,
-          "wins": 7,
-          "draws": 10,
-          "losses": 1,
-          "pct": 66.7,
-          "diff": 183.7,
-          "sd": 20.4,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 91,
-        "draws": 169,
-        "losses": 206
-      }
-    },
-    {
-      "rank": 33,
-      "name": "Sjaak II 1.0.0",
-      "rating": 2087.8,
-      "error": 37.9,
-      "points": 459.0,
-      "played": 851,
-      "pct": 54,
-      "opponents": [
-        {
-          "name": "Prolix 11/22/23",
-          "games": 30,
-          "wins": 3,
-          "draws": 5,
-          "losses": 22,
-          "pct": 18.3,
-          "diff": -184.9,
-          "sd": 23.5,
-          "cfs": 0.0
-        },
-        {
-          "name": "Nebiyu 1.45",
-          "games": 298,
-          "wins": 32,
-          "draws": 80,
-          "losses": 186,
-          "pct": 24.2,
-          "diff": -180.8,
-          "sd": 15.3,
-          "cfs": 0.0
-        },
-        {
-          "name": "Nebiyu 1.6",
-          "games": 40,
-          "wins": 7,
-          "draws": 12,
-          "losses": 21,
-          "pct": 32.5,
-          "diff": -137.7,
-          "sd": 20.0,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 24",
-          "games": 40,
-          "wins": 7,
-          "draws": 15,
-          "losses": 18,
-          "pct": 36.3,
-          "diff": -83.6,
-          "sd": 20.1,
-          "cfs": 0.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 10,
-          "wins": 2,
-          "draws": 7,
-          "losses": 1,
-          "pct": 55.0,
-          "diff": -5.2,
-          "sd": 19.4,
-          "cfs": 39.4
-        },
-        {
-          "name": "Sjaak II 1.2.1",
-          "games": 10,
-          "wins": 0,
-          "draws": 9,
-          "losses": 1,
-          "pct": 45.0,
-          "diff": 8.7,
-          "sd": 18.4,
-          "cfs": 68.2
-        },
-        {
-          "name": "Sjaak II 1.4.1",
-          "games": 10,
-          "wins": 0,
-          "draws": 8,
-          "losses": 2,
-          "pct": 40.0,
-          "diff": 23.7,
-          "sd": 20.7,
-          "cfs": 87.3
-        },
-        {
-          "name": "Sjaak II 1.3.1a",
-          "games": 10,
-          "wins": 1,
-          "draws": 9,
-          "losses": 0,
-          "pct": 55.0,
-          "diff": 47.1,
-          "sd": 19.4,
-          "cfs": 99.2
-        },
-        {
-          "name": "Tilted 22",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "pct": 75.0,
-          "diff": 109.6,
-          "sd": 18.8,
-          "cfs": 100.0
-        },
-        {
-          "name": "Pulsar 2009-9b",
-          "games": 19,
-          "wins": 9,
-          "draws": 7,
-          "losses": 3,
-          "pct": 65.8,
-          "diff": 178.5,
-          "sd": 17.9,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 1.50a",
-          "games": 186,
-          "wins": 135,
-          "draws": 29,
-          "losses": 22,
-          "pct": 80.4,
-          "diff": 247.0,
-          "sd": 15.6,
-          "cfs": 100.0
-        },
-        {
-          "name": "Dabbaba 2.62",
-          "games": 188,
-          "wins": 153,
-          "draws": 24,
-          "losses": 11,
-          "pct": 87.8,
-          "diff": 265.4,
-          "sd": 16.2,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 356,
-        "draws": 206,
-        "losses": 289
-      }
-    },
-    {
-      "rank": 34,
-      "name": "Sjaak II 1.2.1",
-      "rating": 2079.1,
-      "error": 37.4,
-      "points": 242.0,
-      "played": 687,
-      "pct": 35,
-      "opponents": [
-        {
-          "name": "Prolix 11/22/23",
-          "games": 9,
-          "wins": 2,
-          "draws": 0,
-          "losses": 7,
-          "pct": 22.2,
-          "diff": -193.7,
-          "sd": 24.3,
-          "cfs": 0.0
-        },
-        {
-          "name": "Nebiyu 1.6",
-          "games": 10,
-          "wins": 1,
-          "draws": 2,
-          "losses": 7,
-          "pct": 20.0,
-          "diff": -146.4,
-          "sd": 19.4,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 25",
-          "games": 200,
-          "wins": 38,
-          "draws": 54,
-          "losses": 108,
-          "pct": 32.5,
-          "diff": -143.4,
-          "sd": 14.7,
-          "cfs": 0.0
-        },
-        {
-          "name": "ShaMax 4.8S",
-          "games": 388,
-          "wins": 53,
-          "draws": 153,
-          "losses": 182,
-          "pct": 33.4,
-          "diff": -119.2,
-          "sd": 12.6,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 24",
-          "games": 10,
-          "wins": 1,
-          "draws": 2,
-          "losses": 7,
-          "pct": 20.0,
-          "diff": -92.3,
-          "sd": 21.0,
-          "cfs": 0.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 10,
-          "wins": 0,
-          "draws": 10,
-          "losses": 0,
           "pct": 50.0,
-          "diff": -13.9,
-          "sd": 19.1,
-          "cfs": 23.3
+          "diff": 73.5,
+          "sd": 25.8,
+          "cfs": 99.8
         },
         {
-          "name": "Sjaak II 1.0.0",
-          "games": 10,
-          "wins": 1,
-          "draws": 9,
-          "losses": 0,
-          "pct": 55.0,
-          "diff": -8.7,
-          "sd": 18.4,
-          "cfs": 31.8
-        },
-        {
-          "name": "Sjaak II 1.4.1",
-          "games": 10,
-          "wins": 2,
+          "name": "Pulsar 2009-9b",
+          "games": 14,
+          "wins": 7,
           "draws": 6,
-          "losses": 2,
-          "pct": 50.0,
-          "diff": 14.9,
-          "sd": 19.0,
-          "cfs": 78.4
-        },
-        {
-          "name": "Sjaak II 1.3.1a",
-          "games": 10,
-          "wins": 2,
-          "draws": 6,
-          "losses": 2,
-          "pct": 50.0,
-          "diff": 38.4,
-          "sd": 20.7,
-          "cfs": 96.8
-        },
-        {
-          "name": "Tilted 22",
-          "games": 10,
-          "wins": 5,
-          "draws": 4,
           "losses": 1,
-          "pct": 70.0,
-          "diff": 100.8,
-          "sd": 19.9,
-          "cfs": 100.0
-        },
-        {
-          "name": "Pulsar 2009-9b",
-          "games": 20,
-          "wins": 9,
-          "draws": 10,
-          "losses": 1,
-          "pct": 70.0,
-          "diff": 169.8,
-          "sd": 19.6,
+          "pct": 71.4,
+          "diff": 120.5,
+          "sd": 22.0,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 114,
-        "draws": 256,
-        "losses": 317
+        "wins": 50,
+        "draws": 165,
+        "losses": 208
       }
     },
     {
       "rank": 35,
       "name": "Sjaak II 1.4.1",
-      "rating": 2064.1,
-      "error": 39.2,
-      "points": 133.0,
-      "played": 374,
-      "pct": 36,
+      "rating": 2075.6,
+      "error": 41.2,
+      "points": 100.5,
+      "played": 343,
+      "pct": 29,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 8,
-          "wins": 4,
+          "games": 6,
+          "wins": 2,
           "draws": 1,
           "losses": 3,
-          "pct": 56.3,
-          "diff": -208.6,
-          "sd": 24.4,
+          "pct": 41.7,
+          "diff": -284.8,
+          "sd": 30.2,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 25",
+          "games": 207,
+          "wins": 14,
+          "draws": 55,
+          "losses": 138,
+          "pct": 20.0,
+          "diff": -226.4,
+          "sd": 16.2,
           "cfs": 0.0
         },
         {
@@ -3725,8 +3714,8 @@
           "draws": 7,
           "losses": 12,
           "pct": 26.2,
-          "diff": -204.5,
-          "sd": 21.6,
+          "diff": -226.2,
+          "sd": 22.2,
           "cfs": 0.0
         },
         {
@@ -3736,19 +3725,19 @@
           "draws": 4,
           "losses": 3,
           "pct": 50.0,
-          "diff": -161.3,
-          "sd": 22.5,
+          "diff": -174.1,
+          "sd": 23.3,
           "cfs": 0.0
         },
         {
-          "name": "Tilted 25",
-          "games": 222,
-          "wins": 32,
-          "draws": 55,
-          "losses": 135,
-          "pct": 26.8,
-          "diff": -158.3,
-          "sd": 16.4,
+          "name": "Tilted 24",
+          "games": 8,
+          "wins": 0,
+          "draws": 3,
+          "losses": 5,
+          "pct": 18.8,
+          "diff": -153.1,
+          "sd": 25.0,
           "cfs": 0.0
         },
         {
@@ -3758,31 +3747,9 @@
           "draws": 8,
           "losses": 12,
           "pct": 23.8,
-          "diff": -134.1,
-          "sd": 19.1,
+          "diff": -145.1,
+          "sd": 20.1,
           "cfs": 0.0
-        },
-        {
-          "name": "Tilted 24",
-          "games": 10,
-          "wins": 2,
-          "draws": 3,
-          "losses": 5,
-          "pct": 35.0,
-          "diff": -107.2,
-          "sd": 22.0,
-          "cfs": 0.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 10,
-          "wins": 1,
-          "draws": 9,
-          "losses": 0,
-          "pct": 55.0,
-          "diff": -28.9,
-          "sd": 20.0,
-          "cfs": 7.4
         },
         {
           "name": "Sjaak II 1.0.0",
@@ -3791,9 +3758,9 @@
           "draws": 8,
           "losses": 0,
           "pct": 60.0,
-          "diff": -23.7,
-          "sd": 20.7,
-          "cfs": 12.7
+          "diff": -36.8,
+          "sd": 21.5,
+          "cfs": 4.4
         },
         {
           "name": "Sjaak II 1.2.1",
@@ -3802,9 +3769,20 @@
           "draws": 6,
           "losses": 2,
           "pct": 50.0,
-          "diff": -14.9,
-          "sd": 19.0,
-          "cfs": 21.6
+          "diff": -18.0,
+          "sd": 20.7,
+          "cfs": 19.2
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 10,
+          "wins": 1,
+          "draws": 9,
+          "losses": 0,
+          "pct": 55.0,
+          "diff": -17.4,
+          "sd": 21.0,
+          "cfs": 20.4
         },
         {
           "name": "Sjaak II 1.3.1a",
@@ -3813,36 +3791,36 @@
           "draws": 9,
           "losses": 0,
           "pct": 55.0,
-          "diff": 23.5,
-          "sd": 21.0,
-          "cfs": 86.8
+          "diff": 46.1,
+          "sd": 26.3,
+          "cfs": 96.0
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 42,
-          "wins": 20,
-          "draws": 16,
-          "losses": 6,
-          "pct": 66.7,
-          "diff": 154.9,
-          "sd": 21.2,
+          "games": 30,
+          "wins": 12,
+          "draws": 11,
+          "losses": 7,
+          "pct": 58.3,
+          "diff": 103.1,
+          "sd": 22.7,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 70,
-        "draws": 126,
-        "losses": 178
+        "wins": 40,
+        "draws": 121,
+        "losses": 182
       }
     },
     {
       "rank": 36,
       "name": "Sjaak II 1.3.1a",
-      "rating": 2040.7,
-      "error": 40.2,
-      "points": 296.5,
-      "played": 497,
-      "pct": 60,
+      "rating": 2029.6,
+      "error": 49.4,
+      "points": 193.0,
+      "played": 381,
+      "pct": 51,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
@@ -3851,8 +3829,8 @@
           "draws": 1,
           "losses": 9,
           "pct": 5.0,
-          "diff": -232.1,
-          "sd": 25.2,
+          "diff": -330.8,
+          "sd": 32.9,
           "cfs": 0.0
         },
         {
@@ -3862,8 +3840,8 @@
           "draws": 4,
           "losses": 6,
           "pct": 20.0,
-          "diff": -184.8,
-          "sd": 23.4,
+          "diff": -220.2,
+          "sd": 27.7,
           "cfs": 0.0
         },
         {
@@ -3873,20 +3851,9 @@
           "draws": 4,
           "losses": 6,
           "pct": 20.0,
-          "diff": -130.7,
-          "sd": 22.5,
+          "diff": -199.2,
+          "sd": 28.1,
           "cfs": 0.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 10,
-          "wins": 1,
-          "draws": 8,
-          "losses": 1,
-          "pct": 50.0,
-          "diff": -52.3,
-          "sd": 20.5,
-          "cfs": 0.5
         },
         {
           "name": "Sjaak II 1.0.0",
@@ -3895,9 +3862,9 @@
           "draws": 9,
           "losses": 1,
           "pct": 45.0,
-          "diff": -47.1,
-          "sd": 19.4,
-          "cfs": 0.8
+          "diff": -82.9,
+          "sd": 25.8,
+          "cfs": 0.1
         },
         {
           "name": "Sjaak II 1.2.1",
@@ -3906,9 +3873,20 @@
           "draws": 6,
           "losses": 2,
           "pct": 50.0,
-          "diff": -38.4,
-          "sd": 20.7,
-          "cfs": 3.2
+          "diff": -64.0,
+          "sd": 24.7,
+          "cfs": 0.5
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 10,
+          "wins": 1,
+          "draws": 8,
+          "losses": 1,
+          "pct": 50.0,
+          "diff": -63.4,
+          "sd": 25.2,
+          "cfs": 0.6
         },
         {
           "name": "Sjaak II 1.4.1",
@@ -3917,355 +3895,344 @@
           "draws": 9,
           "losses": 1,
           "pct": 45.0,
-          "diff": -23.5,
-          "sd": 21.0,
-          "cfs": 13.2
+          "diff": -46.1,
+          "sd": 26.3,
+          "cfs": 4.0
         },
         {
           "name": "Tilted 22",
-          "games": 210,
-          "wins": 93,
-          "draws": 71,
+          "games": 150,
+          "wins": 40,
+          "draws": 64,
           "losses": 46,
-          "pct": 61.2,
-          "diff": 62.4,
-          "sd": 14.8,
-          "cfs": 100.0
+          "pct": 48.0,
+          "diff": 10.1,
+          "sd": 16.6,
+          "cfs": 72.8
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 217,
-          "wins": 92,
-          "draws": 105,
-          "losses": 20,
-          "pct": 66.6,
-          "diff": 131.4,
-          "sd": 14.1,
+          "games": 161,
+          "wins": 58,
+          "draws": 79,
+          "losses": 24,
+          "pct": 60.6,
+          "diff": 57.1,
+          "sd": 16.8,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 188,
-        "draws": 217,
-        "losses": 92
+        "wins": 101,
+        "draws": 184,
+        "losses": 96
       }
     },
     {
       "rank": 37,
       "name": "Tilted 22",
-      "rating": 1978.2,
-      "error": 40.7,
-      "points": 331.5,
-      "played": 630,
-      "pct": 53,
+      "rating": 2019.5,
+      "error": 50.5,
+      "points": 178.0,
+      "played": 345,
+      "pct": 52,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 18,
-          "wins": 3,
+          "games": 8,
+          "wins": 1,
           "draws": 2,
-          "losses": 13,
-          "pct": 22.2,
-          "diff": -294.5,
-          "sd": 25.4,
+          "losses": 5,
+          "pct": 25.0,
+          "diff": -340.9,
+          "sd": 32.6,
           "cfs": 0.0
         },
         {
           "name": "ShaMax 4.8S",
-          "games": 41,
-          "wins": 2,
-          "draws": 18,
-          "losses": 21,
-          "pct": 26.8,
-          "diff": -220.0,
-          "sd": 18.8,
-          "cfs": 0.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
-          "games": 10,
-          "wins": 2,
-          "draws": 3,
-          "losses": 5,
-          "pct": 35.0,
-          "diff": -114.8,
-          "sd": 20.8,
+          "games": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": -201.2,
+          "sd": 24.9,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 10,
+          "games": 9,
           "wins": 2,
           "draws": 1,
-          "losses": 7,
-          "pct": 25.0,
-          "diff": -109.6,
-          "sd": 18.8,
+          "losses": 6,
+          "pct": 27.8,
+          "diff": -92.9,
+          "sd": 24.6,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.2.1",
-          "games": 10,
+          "games": 7,
           "wins": 1,
           "draws": 4,
-          "losses": 5,
-          "pct": 30.0,
-          "diff": -100.8,
-          "sd": 19.9,
-          "cfs": 0.0
+          "losses": 2,
+          "pct": 42.9,
+          "diff": -74.1,
+          "sd": 25.1,
+          "cfs": 0.2
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 7,
+          "wins": 2,
+          "draws": 3,
+          "losses": 2,
+          "pct": 50.0,
+          "diff": -73.5,
+          "sd": 25.8,
+          "cfs": 0.2
         },
         {
           "name": "Sjaak II 1.3.1a",
-          "games": 210,
+          "games": 150,
           "wins": 46,
-          "draws": 71,
-          "losses": 93,
-          "pct": 38.8,
-          "diff": -62.4,
-          "sd": 14.8,
-          "cfs": 0.0
+          "draws": 64,
+          "losses": 40,
+          "pct": 52.0,
+          "diff": -10.1,
+          "sd": 16.6,
+          "cfs": 27.2
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 200,
-          "wins": 56,
-          "draws": 132,
-          "losses": 12,
-          "pct": 61.0,
-          "diff": 69.0,
-          "sd": 13.6,
-          "cfs": 100.0
+          "games": 153,
+          "wins": 34,
+          "draws": 95,
+          "losses": 24,
+          "pct": 53.3,
+          "diff": 47.0,
+          "sd": 16.7,
+          "cfs": 99.8
         },
         {
           "name": "Dabbaba 1.50a",
-          "games": 48,
-          "wins": 34,
-          "draws": 12,
-          "losses": 2,
-          "pct": 83.3,
-          "diff": 137.4,
-          "sd": 19.1,
+          "games": 2,
+          "wins": 0,
+          "draws": 2,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": 160.0,
+          "sd": 27.5,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 2.62",
-          "games": 22,
-          "wins": 10,
-          "draws": 8,
-          "losses": 4,
-          "pct": 63.6,
-          "diff": 155.8,
-          "sd": 19.2,
+          "games": 2,
+          "wins": 1,
+          "draws": 1,
+          "losses": 0,
+          "pct": 75.0,
+          "diff": 180.2,
+          "sd": 27.6,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 4.18",
-          "games": 19,
-          "wins": 8,
-          "draws": 7,
-          "losses": 4,
-          "pct": 60.5,
-          "diff": 223.2,
-          "sd": 22.2,
+          "games": 2,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "pct": 25.0,
+          "diff": 255.7,
+          "sd": 30.2,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 5.67",
-          "games": 21,
-          "wins": 20,
-          "draws": 1,
+          "games": 2,
+          "wins": 2,
+          "draws": 0,
           "losses": 0,
-          "pct": 97.6,
-          "diff": 481.5,
-          "sd": 24.6,
+          "pct": 100.0,
+          "diff": 503.9,
+          "sd": 33.4,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 6.52",
-          "games": 21,
-          "wins": 17,
-          "draws": 2,
-          "losses": 2,
-          "pct": 85.7,
-          "diff": 532.2,
-          "sd": 25.7,
+          "games": 2,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "pct": 100.0,
+          "diff": 558.8,
+          "sd": 34.3,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 201,
-        "draws": 261,
-        "losses": 168
+        "wins": 91,
+        "draws": 174,
+        "losses": 80
       }
     },
     {
       "rank": 38,
       "name": "Pulsar 2009-9b",
-      "rating": 1909.3,
-      "error": 40.0,
-      "points": 223.5,
-      "played": 639,
-      "pct": 35,
+      "rating": 1972.5,
+      "error": 43.1,
+      "points": 197.0,
+      "played": 485,
+      "pct": 41,
       "opponents": [
         {
-          "name": "Nebiyu 1.45",
-          "games": 22,
+          "name": "Tilted 25",
+          "games": 17,
           "wins": 0,
           "draws": 6,
-          "losses": 16,
-          "pct": 13.6,
-          "diff": -359.4,
-          "sd": 21.3,
+          "losses": 11,
+          "pct": 17.6,
+          "diff": -329.5,
+          "sd": 20.6,
           "cfs": 0.0
         },
         {
-          "name": "Tilted 25",
-          "games": 22,
+          "name": "Nebiyu 1.45",
+          "games": 19,
           "wins": 0,
           "draws": 6,
-          "losses": 16,
-          "pct": 13.6,
-          "diff": -313.2,
-          "sd": 19.3,
+          "losses": 13,
+          "pct": 15.8,
+          "diff": -329.3,
+          "sd": 22.6,
           "cfs": 0.0
         },
         {
           "name": "ShaMax 4.8S",
-          "games": 22,
-          "wins": 1,
-          "draws": 9,
-          "losses": 12,
-          "pct": 25.0,
-          "diff": -289.0,
-          "sd": 18.7,
-          "cfs": 0.0
-        },
-        {
-          "name": "Sjaak II 1.3.0",
           "games": 18,
           "wins": 1,
-          "draws": 10,
-          "losses": 7,
-          "pct": 33.3,
-          "diff": -183.7,
-          "sd": 20.4,
+          "draws": 9,
+          "losses": 8,
+          "pct": 30.6,
+          "diff": -248.2,
+          "sd": 21.6,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 19,
+          "games": 14,
           "wins": 3,
-          "draws": 7,
-          "losses": 9,
-          "pct": 34.2,
-          "diff": -178.5,
-          "sd": 17.9,
+          "draws": 5,
+          "losses": 6,
+          "pct": 39.3,
+          "diff": -139.9,
+          "sd": 21.4,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.2.1",
-          "games": 20,
+          "games": 16,
           "wins": 1,
           "draws": 10,
-          "losses": 9,
-          "pct": 30.0,
-          "diff": -169.8,
-          "sd": 19.6,
+          "losses": 5,
+          "pct": 37.5,
+          "diff": -121.1,
+          "sd": 21.8,
+          "cfs": 0.0
+        },
+        {
+          "name": "Sjaak II 1.3.0",
+          "games": 14,
+          "wins": 1,
+          "draws": 6,
+          "losses": 7,
+          "pct": 28.6,
+          "diff": -120.5,
+          "sd": 22.0,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.4.1",
-          "games": 42,
-          "wins": 6,
-          "draws": 16,
-          "losses": 20,
-          "pct": 33.3,
-          "diff": -154.9,
-          "sd": 21.2,
+          "games": 30,
+          "wins": 7,
+          "draws": 11,
+          "losses": 12,
+          "pct": 41.7,
+          "diff": -103.1,
+          "sd": 22.7,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.3.1a",
-          "games": 217,
-          "wins": 20,
-          "draws": 105,
-          "losses": 92,
-          "pct": 33.4,
-          "diff": -131.4,
-          "sd": 14.1,
+          "games": 161,
+          "wins": 24,
+          "draws": 79,
+          "losses": 58,
+          "pct": 39.4,
+          "diff": -57.1,
+          "sd": 16.8,
           "cfs": 0.0
         },
         {
           "name": "Tilted 22",
-          "games": 200,
-          "wins": 12,
-          "draws": 132,
-          "losses": 56,
-          "pct": 39.0,
-          "diff": -69.0,
-          "sd": 13.6,
-          "cfs": 0.0
+          "games": 153,
+          "wins": 24,
+          "draws": 95,
+          "losses": 34,
+          "pct": 46.7,
+          "diff": -47.0,
+          "sd": 16.7,
+          "cfs": 0.2
         },
         {
           "name": "Dabbaba 1.50a",
-          "games": 18,
+          "games": 16,
           "wins": 3,
-          "draws": 12,
+          "draws": 10,
           "losses": 3,
           "pct": 50.0,
-          "diff": 68.5,
-          "sd": 18.6,
+          "diff": 113.0,
+          "sd": 23.5,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 2.62",
-          "games": 20,
+          "games": 16,
           "wins": 2,
-          "draws": 12,
-          "losses": 6,
-          "pct": 40.0,
-          "diff": 86.9,
-          "sd": 19.1,
+          "draws": 9,
+          "losses": 5,
+          "pct": 40.6,
+          "diff": 133.2,
+          "sd": 23.9,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 4.18",
-          "games": 19,
+          "games": 11,
           "wins": 6,
-          "draws": 12,
+          "draws": 4,
           "losses": 1,
-          "pct": 63.2,
-          "diff": 154.2,
-          "sd": 22.2,
+          "pct": 72.7,
+          "diff": 208.7,
+          "sd": 27.4,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 55,
-        "draws": 337,
-        "losses": 247
+        "wins": 72,
+        "draws": 250,
+        "losses": 163
       }
     },
     {
       "rank": 39,
       "name": "Dabbaba 1.50a",
-      "rating": 1840.8,
-      "error": 42.6,
-      "points": 491.5,
-      "played": 1042,
-      "pct": 47,
+      "rating": 1859.5,
+      "error": 44.7,
+      "points": 405.0,
+      "played": 905,
+      "pct": 45,
       "opponents": [
-        {
-          "name": "ShaMax 4.8S",
-          "games": 19,
-          "wins": 1,
-          "draws": 3,
-          "losses": 15,
-          "pct": 13.2,
-          "diff": -357.5,
-          "sd": 19.2,
-          "cfs": 0.0
-        },
         {
           "name": "Tilted 24",
           "games": 37,
@@ -4273,41 +4240,52 @@
           "draws": 6,
           "losses": 30,
           "pct": 10.8,
-          "diff": -330.6,
-          "sd": 20.6,
+          "diff": -369.2,
+          "sd": 23.5,
+          "cfs": 0.0
+        },
+        {
+          "name": "ShaMax 4.8S",
+          "games": 19,
+          "wins": 1,
+          "draws": 3,
+          "losses": 15,
+          "pct": 13.2,
+          "diff": -361.2,
+          "sd": 21.7,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 186,
+          "games": 181,
           "wins": 22,
-          "draws": 29,
-          "losses": 135,
-          "pct": 19.6,
-          "diff": -247.0,
-          "sd": 15.6,
+          "draws": 23,
+          "losses": 136,
+          "pct": 18.5,
+          "diff": -252.9,
+          "sd": 15.3,
           "cfs": 0.0
         },
         {
           "name": "Tilted 22",
-          "games": 48,
-          "wins": 2,
-          "draws": 12,
-          "losses": 34,
-          "pct": 16.7,
-          "diff": -137.4,
-          "sd": 19.1,
+          "games": 2,
+          "wins": 0,
+          "draws": 2,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": -160.0,
+          "sd": 27.5,
           "cfs": 0.0
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 18,
+          "games": 16,
           "wins": 3,
-          "draws": 12,
+          "draws": 10,
           "losses": 3,
           "pct": 50.0,
-          "diff": -68.5,
-          "sd": 18.6,
+          "diff": -113.0,
+          "sd": 23.5,
           "cfs": 0.0
         },
         {
@@ -4317,81 +4295,70 @@
           "draws": 157,
           "losses": 134,
           "pct": 53.6,
-          "diff": 18.4,
-          "sd": 9.9,
-          "cfs": 96.9
+          "diff": 20.2,
+          "sd": 10.1,
+          "cfs": 97.7
         },
         {
           "name": "Tilted 21",
-          "games": 95,
-          "wins": 49,
+          "games": 71,
+          "wins": 28,
           "draws": 19,
-          "losses": 27,
-          "pct": 61.6,
-          "diff": 77.5,
-          "sd": 15.3,
-          "cfs": 100.0
+          "losses": 24,
+          "pct": 52.8,
+          "diff": 34.4,
+          "sd": 16.9,
+          "cfs": 97.9
         },
         {
           "name": "Dabbaba 4.18",
-          "games": 120,
-          "wins": 54,
+          "games": 119,
+          "wins": 53,
           "draws": 37,
           "losses": 29,
-          "pct": 60.4,
-          "diff": 85.8,
-          "sd": 16.1,
+          "pct": 60.1,
+          "diff": 95.7,
+          "sd": 14.8,
           "cfs": 100.0
         },
         {
           "name": "Tilted 18",
-          "games": 30,
-          "wins": 25,
-          "draws": 4,
-          "losses": 1,
-          "pct": 90.0,
-          "diff": 268.0,
-          "sd": 16.9,
+          "games": 1,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "pct": 100.0,
+          "diff": 237.6,
+          "sd": 17.7,
           "cfs": 100.0
         },
         {
           "name": "Tilted 17",
-          "games": 31,
-          "wins": 27,
-          "draws": 2,
-          "losses": 2,
-          "pct": 90.3,
-          "diff": 373.0,
-          "sd": 17.5,
+          "games": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": 342.4,
+          "sd": 19.9,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 351,
-        "draws": 281,
-        "losses": 410
+        "wins": 276,
+        "draws": 258,
+        "losses": 371
       }
     },
     {
       "rank": 40,
       "name": "Dabbaba 2.62",
-      "rating": 1822.4,
-      "error": 41.9,
-      "points": 573.5,
-      "played": 1173,
-      "pct": 49,
+      "rating": 1839.3,
+      "error": 45.3,
+      "points": 486.0,
+      "played": 1052,
+      "pct": 46,
       "opponents": [
-        {
-          "name": "ShaMax 4.8S",
-          "games": 16,
-          "wins": 1,
-          "draws": 1,
-          "losses": 14,
-          "pct": 9.4,
-          "diff": -375.9,
-          "sd": 19.6,
-          "cfs": 0.0
-        },
         {
           "name": "Tilted 24",
           "games": 37,
@@ -4399,41 +4366,52 @@
           "draws": 8,
           "losses": 29,
           "pct": 10.8,
-          "diff": -349.0,
-          "sd": 21.0,
+          "diff": -389.5,
+          "sd": 23.8,
+          "cfs": 0.0
+        },
+        {
+          "name": "ShaMax 4.8S",
+          "games": 9,
+          "wins": 1,
+          "draws": 1,
+          "losses": 7,
+          "pct": 16.7,
+          "diff": -381.4,
+          "sd": 22.4,
           "cfs": 0.0
         },
         {
           "name": "Sjaak II 1.0.0",
-          "games": 188,
+          "games": 186,
           "wins": 11,
-          "draws": 24,
-          "losses": 153,
-          "pct": 12.2,
-          "diff": -265.4,
-          "sd": 16.2,
+          "draws": 19,
+          "losses": 156,
+          "pct": 11.0,
+          "diff": -273.1,
+          "sd": 16.1,
           "cfs": 0.0
         },
         {
           "name": "Tilted 22",
-          "games": 22,
-          "wins": 4,
-          "draws": 8,
-          "losses": 10,
-          "pct": 36.4,
-          "diff": -155.8,
-          "sd": 19.2,
+          "games": 2,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "pct": 25.0,
+          "diff": -180.2,
+          "sd": 27.6,
           "cfs": 0.0
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 20,
-          "wins": 6,
-          "draws": 12,
+          "games": 16,
+          "wins": 5,
+          "draws": 9,
           "losses": 2,
-          "pct": 60.0,
-          "diff": -86.9,
-          "sd": 19.1,
+          "pct": 59.4,
+          "diff": -133.2,
+          "sd": 23.9,
           "cfs": 0.0
         },
         {
@@ -4443,20 +4421,20 @@
           "draws": 157,
           "losses": 167,
           "pct": 46.4,
-          "diff": -18.4,
-          "sd": 9.9,
-          "cfs": 3.1
+          "diff": -20.2,
+          "sd": 10.1,
+          "cfs": 2.3
         },
         {
           "name": "Tilted 21",
-          "games": 125,
-          "wins": 62,
+          "games": 94,
+          "wins": 38,
           "draws": 34,
-          "losses": 29,
-          "pct": 63.2,
-          "diff": 59.1,
-          "sd": 14.1,
-          "cfs": 100.0
+          "losses": 22,
+          "pct": 58.5,
+          "diff": 14.2,
+          "sd": 16.4,
+          "cfs": 80.6
         },
         {
           "name": "Dabbaba 4.18",
@@ -4465,123 +4443,112 @@
           "draws": 40,
           "losses": 26,
           "pct": 61.3,
-          "diff": 67.4,
+          "diff": 75.5,
           "sd": 15.1,
           "cfs": 100.0
         },
         {
           "name": "Tilted 18",
-          "games": 94,
-          "wins": 65,
+          "games": 73,
+          "wins": 48,
           "draws": 17,
-          "losses": 12,
-          "pct": 78.2,
-          "diff": 249.6,
-          "sd": 15.4,
+          "losses": 8,
+          "pct": 77.4,
+          "diff": 217.4,
+          "sd": 17.0,
           "cfs": 100.0
         },
         {
           "name": "Tilted 17",
-          "games": 94,
-          "wins": 82,
+          "games": 58,
+          "wins": 48,
           "draws": 10,
-          "losses": 2,
-          "pct": 92.6,
-          "diff": 354.6,
-          "sd": 16.2,
+          "losses": 0,
+          "pct": 91.4,
+          "diff": 322.2,
+          "sd": 19.4,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 418,
-        "draws": 311,
-        "losses": 444
+        "wins": 338,
+        "draws": 296,
+        "losses": 418
       }
     },
     {
       "rank": 41,
       "name": "Tilted 21",
-      "rating": 1763.3,
-      "error": 48.3,
-      "points": 338.5,
-      "played": 581,
-      "pct": 58,
+      "rating": 1825.1,
+      "error": 55.8,
+      "points": 325.0,
+      "played": 491,
+      "pct": 66,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 19,
+          "games": 12,
           "wins": 0,
           "draws": 0,
-          "losses": 19,
+          "losses": 12,
           "pct": 0.0,
-          "diff": -509.4,
-          "sd": 28.1,
+          "diff": -535.3,
+          "sd": 33.7,
           "cfs": 0.0
         },
         {
           "name": "ShaMax 4.8S",
-          "games": 20,
+          "games": 2,
           "wins": 0,
-          "draws": 4,
-          "losses": 16,
-          "pct": 10.0,
-          "diff": -435.0,
-          "sd": 22.4,
+          "draws": 1,
+          "losses": 1,
+          "pct": 25.0,
+          "diff": -395.7,
+          "sd": 26.8,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 1.50a",
-          "games": 95,
-          "wins": 27,
+          "games": 71,
+          "wins": 24,
           "draws": 19,
-          "losses": 49,
-          "pct": 38.4,
-          "diff": -77.5,
-          "sd": 15.3,
-          "cfs": 0.0
+          "losses": 28,
+          "pct": 47.2,
+          "diff": -34.4,
+          "sd": 16.9,
+          "cfs": 2.1
         },
         {
           "name": "Dabbaba 2.62",
-          "games": 125,
-          "wins": 29,
+          "games": 94,
+          "wins": 22,
           "draws": 34,
-          "losses": 62,
-          "pct": 36.8,
-          "diff": -59.1,
-          "sd": 14.1,
-          "cfs": 0.0
+          "losses": 38,
+          "pct": 41.5,
+          "diff": -14.2,
+          "sd": 16.4,
+          "cfs": 19.4
         },
         {
           "name": "Dabbaba 4.18",
-          "games": 40,
-          "wins": 18,
+          "games": 33,
+          "wins": 16,
           "draws": 8,
-          "losses": 14,
-          "pct": 55.0,
-          "diff": 8.3,
-          "sd": 17.7,
-          "cfs": 68.0
-        },
-        {
-          "name": "Tilted 18",
-          "games": 120,
-          "wins": 79,
-          "draws": 34,
-          "losses": 7,
-          "pct": 80.0,
-          "diff": 190.5,
-          "sd": 15.7,
+          "losses": 9,
+          "pct": 60.6,
+          "diff": 61.3,
+          "sd": 18.4,
           "cfs": 100.0
         },
         {
-          "name": "Dabbaba 5.67",
-          "games": 21,
-          "wins": 17,
-          "draws": 2,
-          "losses": 2,
-          "pct": 85.7,
-          "diff": 266.6,
-          "sd": 19.6,
+          "name": "Tilted 18",
+          "games": 119,
+          "wins": 79,
+          "draws": 34,
+          "losses": 6,
+          "pct": 80.7,
+          "diff": 203.2,
+          "sd": 16.5,
           "cfs": 100.0
         },
         {
@@ -4591,37 +4558,59 @@
           "draws": 26,
           "losses": 3,
           "pct": 86.7,
-          "diff": 295.5,
-          "sd": 16.7,
+          "diff": 308.0,
+          "sd": 17.8,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 5.67",
+          "games": 20,
+          "wins": 17,
+          "draws": 2,
+          "losses": 1,
+          "pct": 90.0,
+          "diff": 309.4,
+          "sd": 20.3,
           "cfs": 100.0
         },
         {
           "name": "Dabbaba 6.52",
-          "games": 21,
+          "games": 20,
           "wins": 13,
           "draws": 2,
-          "losses": 6,
-          "pct": 66.7,
-          "diff": 317.2,
-          "sd": 20.7,
+          "losses": 5,
+          "pct": 70.0,
+          "diff": 364.4,
+          "sd": 22.1,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 274,
-        "draws": 129,
-        "losses": 178
+        "wins": 262,
+        "draws": 126,
+        "losses": 103
       }
     },
     {
       "rank": 42,
       "name": "Dabbaba 4.18",
-      "rating": 1755.0,
-      "error": 49.3,
-      "points": 255.0,
-      "played": 542,
-      "pct": 47,
+      "rating": 1763.8,
+      "error": 52.6,
+      "points": 204.0,
+      "played": 471,
+      "pct": 43,
       "opponents": [
+        {
+          "name": "Tilted 24",
+          "games": 37,
+          "wins": 1,
+          "draws": 6,
+          "losses": 30,
+          "pct": 10.8,
+          "diff": -465.0,
+          "sd": 27.2,
+          "cfs": 0.0
+        },
         {
           "name": "ShaMax 4.8S",
           "games": 20,
@@ -4629,52 +4618,41 @@
           "draws": 3,
           "losses": 17,
           "pct": 7.5,
-          "diff": -443.2,
-          "sd": 23.1,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 24",
-          "games": 38,
-          "wins": 1,
-          "draws": 6,
-          "losses": 31,
-          "pct": 10.5,
-          "diff": -416.3,
-          "sd": 24.1,
+          "diff": -456.9,
+          "sd": 25.7,
           "cfs": 0.0
         },
         {
           "name": "Tilted 22",
-          "games": 19,
-          "wins": 4,
-          "draws": 7,
-          "losses": 8,
-          "pct": 39.5,
-          "diff": -223.2,
-          "sd": 22.2,
+          "games": 2,
+          "wins": 1,
+          "draws": 1,
+          "losses": 0,
+          "pct": 75.0,
+          "diff": -255.7,
+          "sd": 30.2,
           "cfs": 0.0
         },
         {
           "name": "Pulsar 2009-9b",
-          "games": 19,
+          "games": 11,
           "wins": 1,
-          "draws": 12,
+          "draws": 4,
           "losses": 6,
-          "pct": 36.8,
-          "diff": -154.2,
-          "sd": 22.2,
+          "pct": 27.3,
+          "diff": -208.7,
+          "sd": 27.4,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 1.50a",
-          "games": 120,
+          "games": 119,
           "wins": 29,
           "draws": 37,
-          "losses": 54,
-          "pct": 39.6,
-          "diff": -85.8,
-          "sd": 16.1,
+          "losses": 53,
+          "pct": 39.9,
+          "diff": -95.7,
+          "sd": 14.8,
           "cfs": 0.0
         },
         {
@@ -4684,135 +4662,113 @@
           "draws": 40,
           "losses": 53,
           "pct": 38.7,
-          "diff": -67.4,
+          "diff": -75.5,
           "sd": 15.1,
           "cfs": 0.0
         },
         {
           "name": "Tilted 21",
-          "games": 40,
-          "wins": 14,
+          "games": 33,
+          "wins": 9,
           "draws": 8,
-          "losses": 18,
-          "pct": 45.0,
-          "diff": -8.3,
-          "sd": 17.7,
-          "cfs": 32.0
+          "losses": 16,
+          "pct": 39.4,
+          "diff": -61.3,
+          "sd": 18.4,
+          "cfs": 0.0
         },
         {
           "name": "Tilted 18",
-          "games": 128,
-          "wins": 74,
+          "games": 102,
+          "wins": 49,
           "draws": 32,
-          "losses": 22,
-          "pct": 70.3,
-          "diff": 182.3,
-          "sd": 16.5,
+          "losses": 21,
+          "pct": 63.7,
+          "diff": 141.9,
+          "sd": 16.6,
           "cfs": 100.0
         },
         {
           "name": "Tilted 17",
-          "games": 39,
-          "wins": 29,
+          "games": 28,
+          "wins": 18,
           "draws": 9,
           "losses": 1,
-          "pct": 85.9,
-          "diff": 287.3,
-          "sd": 17.5,
+          "pct": 80.4,
+          "diff": 246.7,
+          "sd": 19.7,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 178,
-        "draws": 154,
-        "losses": 210
+        "wins": 134,
+        "draws": 140,
+        "losses": 197
       }
     },
     {
       "rank": 43,
       "name": "Tilted 18",
-      "rating": 1572.8,
-      "error": 48.5,
-      "points": 336.0,
-      "played": 799,
-      "pct": 42,
+      "rating": 1621.9,
+      "error": 56.4,
+      "points": 324.0,
+      "played": 689,
+      "pct": 47,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 16,
+          "games": 13,
           "wins": 0,
           "draws": 0,
-          "losses": 16,
+          "losses": 13,
           "pct": 0.0,
-          "diff": -700.0,
-          "sd": 27.3,
-          "cfs": 0.0
-        },
-        {
-          "name": "ShaMax 4.8S",
-          "games": 21,
-          "wins": 0,
-          "draws": 2,
-          "losses": 19,
-          "pct": 4.8,
-          "diff": -625.5,
-          "sd": 23.5,
+          "diff": -738.5,
+          "sd": 33.9,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 1.50a",
-          "games": 30,
-          "wins": 1,
-          "draws": 4,
-          "losses": 25,
-          "pct": 10.0,
-          "diff": -268.0,
-          "sd": 16.9,
+          "games": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "pct": 0.0,
+          "diff": -237.6,
+          "sd": 17.7,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 2.62",
-          "games": 94,
-          "wins": 12,
+          "games": 73,
+          "wins": 8,
           "draws": 17,
-          "losses": 65,
-          "pct": 21.8,
-          "diff": -249.6,
-          "sd": 15.4,
+          "losses": 48,
+          "pct": 22.6,
+          "diff": -217.4,
+          "sd": 17.0,
           "cfs": 0.0
         },
         {
           "name": "Tilted 21",
-          "games": 120,
-          "wins": 7,
+          "games": 119,
+          "wins": 6,
           "draws": 34,
           "losses": 79,
-          "pct": 20.0,
-          "diff": -190.5,
-          "sd": 15.7,
-          "cfs": 0.0
-        },
-        {
-          "name": "Dabbaba 4.18",
-          "games": 128,
-          "wins": 22,
-          "draws": 32,
-          "losses": 74,
-          "pct": 29.7,
-          "diff": -182.3,
+          "pct": 19.3,
+          "diff": -203.2,
           "sd": 16.5,
           "cfs": 0.0
         },
         {
-          "name": "Dabbaba 5.67",
-          "games": 114,
-          "wins": 69,
-          "draws": 13,
-          "losses": 32,
-          "pct": 66.2,
-          "diff": 76.1,
-          "sd": 14.7,
-          "cfs": 100.0
+          "name": "Dabbaba 4.18",
+          "games": 102,
+          "wins": 21,
+          "draws": 32,
+          "losses": 49,
+          "pct": 36.3,
+          "diff": -141.9,
+          "sd": 16.6,
+          "cfs": 0.0
         },
         {
           "name": "Tilted 17",
@@ -4821,8 +4777,19 @@
           "draws": 118,
           "losses": 34,
           "pct": 63.7,
-          "diff": 105.0,
-          "sd": 12.1,
+          "diff": 104.8,
+          "sd": 12.7,
+          "cfs": 100.0
+        },
+        {
+          "name": "Dabbaba 5.67",
+          "games": 105,
+          "wins": 67,
+          "draws": 13,
+          "losses": 25,
+          "pct": 70.0,
+          "diff": 106.2,
+          "sd": 15.2,
           "cfs": 100.0
         },
         {
@@ -4832,161 +4799,57 @@
           "draws": 2,
           "losses": 8,
           "pct": 55.0,
-          "diff": 126.7,
-          "sd": 16.2,
+          "diff": 161.2,
+          "sd": 17.8,
           "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 225,
-        "draws": 222,
-        "losses": 352
+        "wins": 216,
+        "draws": 216,
+        "losses": 257
       }
     },
     {
       "rank": 44,
-      "name": "Dabbaba 5.67",
-      "rating": 1496.7,
-      "error": 52.5,
-      "points": 337.5,
-      "played": 733,
-      "pct": 46,
-      "opponents": [
-        {
-          "name": "ShaMax 4.8S",
-          "games": 20,
-          "wins": 0,
-          "draws": 0,
-          "losses": 20,
-          "pct": 0.0,
-          "diff": -701.6,
-          "sd": 24.9,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 24",
-          "games": 40,
-          "wins": 0,
-          "draws": 4,
-          "losses": 36,
-          "pct": 5.0,
-          "diff": -674.7,
-          "sd": 25.5,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 22",
-          "games": 21,
-          "wins": 0,
-          "draws": 1,
-          "losses": 20,
-          "pct": 2.4,
-          "diff": -481.5,
-          "sd": 24.6,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 21",
-          "games": 21,
-          "wins": 2,
-          "draws": 2,
-          "losses": 17,
-          "pct": 14.3,
-          "diff": -266.6,
-          "sd": 19.6,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 18",
-          "games": 114,
-          "wins": 32,
-          "draws": 13,
-          "losses": 69,
-          "pct": 33.8,
-          "diff": -76.1,
-          "sd": 14.7,
-          "cfs": 0.0
-        },
-        {
-          "name": "Tilted 17",
-          "games": 299,
-          "wins": 91,
-          "draws": 126,
-          "losses": 82,
-          "pct": 51.5,
-          "diff": 28.9,
-          "sd": 12.0,
-          "cfs": 99.2
-        },
-        {
-          "name": "Dabbaba 6.52",
-          "games": 218,
-          "wins": 117,
-          "draws": 45,
-          "losses": 56,
-          "pct": 64.0,
-          "diff": 50.7,
-          "sd": 13.3,
-          "cfs": 100.0
-        }
-      ],
-      "record": {
-        "wins": 242,
-        "draws": 191,
-        "losses": 300
-      }
-    },
-    {
-      "rank": 45,
       "name": "Tilted 17",
-      "rating": 1467.8,
-      "error": 49.7,
-      "points": 382.5,
-      "played": 1094,
-      "pct": 35,
+      "rating": 1517.1,
+      "error": 59.8,
+      "points": 373.0,
+      "played": 942,
+      "pct": 40,
       "opponents": [
         {
           "name": "Prolix 11/22/23",
-          "games": 18,
-          "wins": 2,
-          "draws": 0,
-          "losses": 16,
-          "pct": 11.1,
-          "diff": -805.0,
-          "sd": 27.6,
-          "cfs": 0.0
-        },
-        {
-          "name": "ShaMax 4.8S",
-          "games": 21,
+          "games": 10,
           "wins": 0,
-          "draws": 4,
-          "losses": 17,
-          "pct": 9.5,
-          "diff": -730.5,
-          "sd": 23.4,
+          "draws": 0,
+          "losses": 10,
+          "pct": 0.0,
+          "diff": -843.3,
+          "sd": 34.6,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 1.50a",
-          "games": 31,
-          "wins": 2,
-          "draws": 2,
-          "losses": 27,
-          "pct": 9.7,
-          "diff": -373.0,
-          "sd": 17.5,
+          "games": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 0,
+          "pct": 50.0,
+          "diff": -342.4,
+          "sd": 19.9,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 2.62",
-          "games": 94,
-          "wins": 2,
+          "games": 58,
+          "wins": 0,
           "draws": 10,
-          "losses": 82,
-          "pct": 7.4,
-          "diff": -354.6,
-          "sd": 16.2,
+          "losses": 48,
+          "pct": 8.6,
+          "diff": -322.2,
+          "sd": 19.4,
           "cfs": 0.0
         },
         {
@@ -4996,19 +4859,19 @@
           "draws": 26,
           "losses": 91,
           "pct": 13.3,
-          "diff": -295.5,
-          "sd": 16.7,
+          "diff": -308.0,
+          "sd": 17.8,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 4.18",
-          "games": 39,
+          "games": 28,
           "wins": 1,
           "draws": 9,
-          "losses": 29,
-          "pct": 14.1,
-          "diff": -287.3,
-          "sd": 17.5,
+          "losses": 18,
+          "pct": 19.6,
+          "diff": -246.7,
+          "sd": 19.7,
           "cfs": 0.0
         },
         {
@@ -5018,48 +4881,59 @@
           "draws": 118,
           "losses": 104,
           "pct": 36.3,
-          "diff": -105.0,
-          "sd": 12.1,
+          "diff": -104.8,
+          "sd": 12.7,
           "cfs": 0.0
         },
         {
           "name": "Dabbaba 5.67",
-          "games": 299,
-          "wins": 82,
+          "games": 271,
+          "wins": 81,
           "draws": 126,
-          "losses": 91,
-          "pct": 48.5,
-          "diff": -28.9,
-          "sd": 12.0,
-          "cfs": 0.8
+          "losses": 64,
+          "pct": 53.1,
+          "diff": 1.4,
+          "sd": 11.3,
+          "cfs": 55.1
         },
         {
           "name": "Dabbaba 6.52",
-          "games": 216,
+          "games": 198,
           "wins": 62,
           "draws": 94,
-          "losses": 60,
-          "pct": 50.5,
-          "diff": 21.7,
-          "sd": 13.6,
-          "cfs": 94.5
+          "losses": 42,
+          "pct": 55.1,
+          "diff": 56.4,
+          "sd": 13.7,
+          "cfs": 100.0
         }
       ],
       "record": {
-        "wins": 188,
-        "draws": 389,
-        "losses": 517
+        "wins": 181,
+        "draws": 384,
+        "losses": 377
       }
     },
     {
-      "rank": 46,
-      "name": "Dabbaba 6.52",
-      "rating": 1446.0,
-      "error": 53.7,
-      "points": 206.0,
-      "played": 555,
-      "pct": 37,
+      "rank": 45,
+      "name": "Dabbaba 5.67",
+      "rating": 1515.6,
+      "error": 61.8,
+      "points": 302.0,
+      "played": 676,
+      "pct": 45,
       "opponents": [
+        {
+          "name": "Tilted 24",
+          "games": 40,
+          "wins": 0,
+          "draws": 4,
+          "losses": 36,
+          "pct": 5.0,
+          "diff": -713.1,
+          "sd": 31.6,
+          "cfs": 0.0
+        },
         {
           "name": "ShaMax 4.8S",
           "games": 20,
@@ -5067,10 +4941,81 @@
           "draws": 0,
           "losses": 20,
           "pct": 0.0,
-          "diff": -752.2,
-          "sd": 25.9,
+          "diff": -705.1,
+          "sd": 29.5,
           "cfs": 0.0
         },
+        {
+          "name": "Tilted 22",
+          "games": 2,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "pct": 0.0,
+          "diff": -503.9,
+          "sd": 33.4,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 21",
+          "games": 20,
+          "wins": 1,
+          "draws": 2,
+          "losses": 17,
+          "pct": 10.0,
+          "diff": -309.4,
+          "sd": 20.3,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 18",
+          "games": 105,
+          "wins": 25,
+          "draws": 13,
+          "losses": 67,
+          "pct": 30.0,
+          "diff": -106.2,
+          "sd": 15.2,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 17",
+          "games": 271,
+          "wins": 64,
+          "draws": 126,
+          "losses": 81,
+          "pct": 46.9,
+          "diff": -1.4,
+          "sd": 11.3,
+          "cfs": 44.9
+        },
+        {
+          "name": "Dabbaba 6.52",
+          "games": 218,
+          "wins": 117,
+          "draws": 45,
+          "losses": 56,
+          "pct": 64.0,
+          "diff": 54.9,
+          "sd": 14.1,
+          "cfs": 100.0
+        }
+      ],
+      "record": {
+        "wins": 207,
+        "draws": 190,
+        "losses": 279
+      }
+    },
+    {
+      "rank": 46,
+      "name": "Dabbaba 6.52",
+      "rating": 1460.7,
+      "error": 64.2,
+      "points": 184.0,
+      "played": 517,
+      "pct": 36,
+      "opponents": [
         {
           "name": "Tilted 24",
           "games": 39,
@@ -5078,30 +5023,41 @@
           "draws": 1,
           "losses": 37,
           "pct": 3.8,
-          "diff": -725.3,
-          "sd": 26.5,
+          "diff": -768.1,
+          "sd": 33.7,
+          "cfs": 0.0
+        },
+        {
+          "name": "ShaMax 4.8S",
+          "games": 20,
+          "wins": 0,
+          "draws": 0,
+          "losses": 20,
+          "pct": 0.0,
+          "diff": -760.0,
+          "sd": 30.8,
           "cfs": 0.0
         },
         {
           "name": "Tilted 22",
-          "games": 21,
-          "wins": 2,
-          "draws": 2,
-          "losses": 17,
-          "pct": 14.3,
-          "diff": -532.2,
-          "sd": 25.7,
+          "games": 2,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "pct": 0.0,
+          "diff": -558.8,
+          "sd": 34.3,
           "cfs": 0.0
         },
         {
           "name": "Tilted 21",
-          "games": 21,
-          "wins": 6,
+          "games": 20,
+          "wins": 5,
           "draws": 2,
           "losses": 13,
-          "pct": 33.3,
-          "diff": -317.2,
-          "sd": 20.7,
+          "pct": 30.0,
+          "diff": -364.4,
+          "sd": 22.1,
           "cfs": 0.0
         },
         {
@@ -5111,8 +5067,19 @@
           "draws": 2,
           "losses": 10,
           "pct": 45.0,
-          "diff": -126.7,
-          "sd": 16.2,
+          "diff": -161.2,
+          "sd": 17.8,
+          "cfs": 0.0
+        },
+        {
+          "name": "Tilted 17",
+          "games": 198,
+          "wins": 42,
+          "draws": 94,
+          "losses": 62,
+          "pct": 44.9,
+          "diff": -56.4,
+          "sd": 13.7,
           "cfs": 0.0
         },
         {
@@ -5122,26 +5089,15 @@
           "draws": 45,
           "losses": 117,
           "pct": 36.0,
-          "diff": -50.7,
-          "sd": 13.3,
+          "diff": -54.9,
+          "sd": 14.1,
           "cfs": 0.0
-        },
-        {
-          "name": "Tilted 17",
-          "games": 216,
-          "wins": 60,
-          "draws": 94,
-          "losses": 62,
-          "pct": 49.5,
-          "diff": -21.7,
-          "sd": 13.6,
-          "cfs": 5.5
         }
       ],
       "record": {
-        "wins": 133,
-        "draws": 146,
-        "losses": 276
+        "wins": 112,
+        "draws": 144,
+        "losses": 261
       }
     }
   ]
